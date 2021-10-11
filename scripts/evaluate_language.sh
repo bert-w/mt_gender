@@ -11,7 +11,7 @@ set -e
 dataset=$1
 lang=$2
 trans_sys=$3
-prefix=en-$lang
+prefix=nl-$lang
 
 # Prepare files for translation
 cut -f3 $dataset > ./tmp.in            # Extract sentences
@@ -22,7 +22,7 @@ mkdir -p ../data/human/$lang
 trans_fn=../translations/$trans_sys/$prefix.txt
 echo "!!! $trans_fn"
 if [ ! -f $trans_fn ]; then
-    python translate.py --trans=$trans_sys --in=./tmp.in --src=en --tgt=$2 --out=$trans_fn
+    python translate.py --trans=$trans_sys --in=./tmp.in --src=nl --tgt=$2 --out=$trans_fn
 else
     echo "Not translating since translation file exists: $trans_fn"
 fi
