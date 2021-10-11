@@ -14,9 +14,9 @@ from google.cloud import translate
 import html
 
 # Local imports
-from bing_translate import bing_translate
+# from bing_translate import bing_translate
 from google_translate import google_translate
-from amazon_translate import aws_translate
+# from amazon_translate import aws_translate
 #=-----
 
 BATCH_SIZE = 50 # Up to 128 should be fine?
@@ -41,8 +41,8 @@ def batch_translate(trans_function, lines, tgt_lang, src_lang = None):
 
 TRANSLATION_SERVICE = {
     "google": google_translate,
-    "bing": bing_translate,
-    "aws": aws_translate
+#     "bing": bing_translate,
+#     "aws": aws_translate
 }
 
 if __name__ == "__main__":
