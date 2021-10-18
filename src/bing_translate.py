@@ -30,15 +30,22 @@ def bing_translate(sents, target_language, source_language = None):
         logging.error('Environment variable for BING_TRANSLATOR_TEXT_KEY is not set.')
         raise ValueError
 
+    if 'BING_TRANSLATOR_REGION_KEY' in os.environ:
+        regionKey = os.environ['BING_TRANSLATOR_REGION_KEY']
+    else:
+        logging.error('Environment variable for BING_TRANSLATOR_REGION_KEY is not set.')
+        raise ValueError
+
     # If you encounter any issues with the base_url or path, make sure
     # that you are using the latest endpoint: https://docs.microsoft.com/azure/cognitive-services/translator/reference/v3-0-translate
     base_url = "https://api.cognitive.microsofttranslator.com"
     path = "/translate?api-version=3.0"
-    params = f"&to={target_language}"
+    params = f"&from={source_language}&to={target_language}"
     constructed_url = base_url + path + params
 
     headers = {
         'Ocp-Apim-Subscription-Key': subscriptionKey,
+        'Ocp-Apim-Subscription-Region': regionKey,
         'Content-type': 'application/json',
         'X-ClientTraceId': str(uuid.uuid4())
     }
