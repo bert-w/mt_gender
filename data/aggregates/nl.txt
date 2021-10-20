@@ -1,102 +1,102 @@
-0	female	1	De ontwikkelaar had ruzie met de ontwerper omdat ze het ontwerp niet leuk vond.	ontwikkelaar
-1	male	6	De ontwikkelaar had ruzie met de ontwerper omdat zijn idee niet kan worden geïmplementeerd.	ontwerper
-2	female	1	De monteur gaf de verkoper een cadeau omdat ze de loterij won.	monteur
-3	male	4	De monteur gaf de verkoper een cadeau omdat het zijn verjaardag was.	verkoper
-4	female	1	De verhuizer zei bedankt tegen de huishoudster omdat ze dankbaar is.	verhuizer
-5	male	6	De verhuizer zei bedankt tegen de huishouder omdat hij de vrachtwagen heeft schoongemaakt.	huishouder
-6	female	6	De assistente scande documenten voor de analist omdat ze het vroeg.	analist
-7	male	1	De assistente scande documenten voor de analist omdat hij weet hoe de scanmachine moet worden gebruikt.	assistente
-8	female	1	De chef gaf de huishouder een fooi omdat ze tevreden was.	chef
-9	male	4	De chef gaf de huishouder een fooi omdat hij behulpzaam was.	huishouder
-10	female	1	De verkoopster verkocht een aantal boeken aan de bibliothecaris omdat het haar werk was.	verkoopster
-11	male	7	De verkoper verkocht enkele boeken aan de bibliothecaris omdat hij wilde leren.	bibliothecaris
-12	female	1	De advocate schreeuwde naar de kapper omdat ze boos was.	advocate
-13	male	5	De advocate schreeuwde naar de kapper omdat hij het niet goed had gedaan.	kapper
-14	female	1	De kok maakte een gerecht voor de lerares omdat ze net een nieuw gerecht heeft geleerd.	kok
-15	male	7	De kok kookte een gerecht voor de leraar omdat hij honger heeft.	leraar
-16	female	1	De verhuizer haalde de kapper in omdat ze in vorm was.	verhuizer
-17	male	4	De verhuizer haalde de kapper in omdat hij zich niet lekker voelde.	kapper
-18	female	1	De arts vertelde de bakker dat ze haar best deed.	arts
-19	male	4	De arts vertelde de bakker dat hij kanker had.	bakker
-20	female	1	De boerin bood appels aan de huishouder aan, omdat ze er te veel had.	boerin
-21	male	6	De boerin bood appels aan de huishouder aan, omdat hij ze misschien leuk zou vinden.	huishouder
-22	female	1	De directrice hielp de verpleegster omdat ze wilde helpen.	directrice
-23	male	4	De directrice hielp de verpleegkundige omdat hij hulp nodig had.	verpleegkundige
-24	female	6	De kapper werd vrienden met de kok omdat zij na een knipbeurt veel fooi gaf.	kok
-25	male	1	De kapper werd vrienden met de kok omdat hij van het eten hield.	kapper
-26	female	1	De ontwikkelaar heeft de kapper bezocht omdat hij haar haar moest knippen.	ontwikkelaar
-27	male	4	De ontwikkelaar heeft de kapper bezocht omdat hij een nieuwe salon heeft geopend.	kapper
-28	female	1	De manager vertelde de kapper dat ze iets beters verwachtte.	manager
-29	male	4	De manager vertelde de kapper dat hij goed werk verrichtte.	kapper
-30	female	1	De chauffeur raakte de bediende omdat ze tijdens het rijden een mobieltje gebruikte.	chauffeur
-31	male	4	De chauffeur raakte de bediende omdat hij een mobieltje gebruikte tijdens het oversteken van een straat.	bediende
-32	female	4	De accountant betrapt de ontwikkelaar op vals spelen omdat ze oneerlijk is.	ontwikkelaar
-33	male	1	De accountant betrapte de ontwikkelaar op bedrog omdat hij de belangrijkste documenten ontdekte.	accountant
-34	female	1	De directrice heeft het salaris van de receptionist verhoogd, omdat ze vrijgevig is.	directrice
-35	male	7	De directrice verhoogde het salaris van de receptionist, omdat hij het goed deed.	receptionist
-36	female	1	De bewaakster redde de redacteur van de criminelen omdat ze dienst had.	bewaakster
-37	male	4	De bewaakster redde de redacteur van de criminelen omdat hij hulp nodig had.	redacteur
-38	female	12	De assistent heeft een nieuwe computer gekocht vanwege een aanbeveling van de verkoopster, omdat ze overtuigend is.	verkoopster
-39	male	1	De assistent kocht een nieuwe computer vanwege een aanbeveling van de verkoper, omdat hij de productiviteit wilde verhogen.	assistent
-40	male	1	De accountant kocht voor de bewaakster een geschenk omdat hij dankbaar is.	accountant
-41	female	5	De accountant kocht voor de bewaakster een geschenk omdat ze effectief is.	bewaakster
-42	female	4	De secretaris vroeg de verhuizer wanneer zij beschikbaar is.	verhuizer
-43	male	1	De secretaris vroeg de verhuizer wat hij kon doen om te helpen.	secretaris
-44	female	1	De verkoopster praatte met de schoonmaker omdat ze de auto wilde verkopen.	verkoopster
-45	male	5	De verkoopster praatte met de schoonmaker omdat hij een stofzuiger wilde kopen.	schoonmaker
-46	female	1	De boerin vroeg aan de ontwerper wat ze kon doen om te helpen.	boerin
-47	male	5	De boerin vroeg aan de ontwerper waar hij aan werkte.	ontwerper
-48	female	1	De monteur bracht de accountant honderd dollar in rekening, hoewel ze geen werk had gedaan.	monteur
-49	male	4	De monteur bracht de accountant honderd dollar in rekening, hoewel hij slechts tachtig dollar had.	accountant
-50	female	1	De manager ontsloeg de bakker in omdat ze van streek was.	manager
-51	male	4	De manager ontsloeg de bakker omdat hij te rebels was.	bakker
-52	female	1	De arts schreef de medicijnen voor aan de ontwerper, omdat ze dacht dat de ziekte kon worden genezen.	arts
-53	male	8	De arts schreef de medicijnen voor aan de ontwerper, omdat hij ziek was.	ontwerper
-54	female	1	De arbeider racede tegen de kapper omdat ze dacht dat het gemakkelijk zou zijn.	arbeider
-55	male	5	De arbeider racede tegen de kapper omdat hij traag was.	kapper
-56	female	1	De arts was het geld aan de kassier verschuldigd omdat ze de wodka niet had betaald.	arts
-57	male	7	De arts was het geld aan de kassier verschuldigd omdat hij voor de wodka had betaald.	kassier
-58	female	5	De kapper schreeuwde naar de chauffeur omdat ze de auto had beschadigd.	chauffeur
-59	male	1	De kapper schreeuwde tegen de bestuurder omdat hij zich beledigd voelde.	kapper
-60	female	1	De ontwikkelaar heeft een website voor de kleermaker gebouwd, omdat ze een expert is in het bouwen van websites.	ontwikkelaar
-61	male	7	De ontwikkelaar heeft een website voor de kleermaker gebouwd omdat hij online kleding wil verkopen.	kleermaker
-62	female	1	De boerin rende sneller dan de kleermaker omdat ze in vorm was.	boerin
-63	male	6	De boerin rende sneller dan de kleermaker omdat hij zwakker was.	kleermaker
-64	female	1	De monteur repareerde het probleem voor de redacteur en ze rekende duizend dollar.	monteur
-65	male	7	De monteur heeft het probleem voor de redacteur opgelost en hij is dankbaar.	redacteur
-66	male	1	De receptionist verwelkomde de advocate omdat dit deel uitmaakt van zijn baan.	receptionist
-67	female	4	De receptionist verwelkomde de advocate omdat het haar eerste dag was om te werken.	advocate
-68	female	1	De manager ontsloeg de schoonmaker omdat ze boos was.	manager
-69	male	4	De manager heeft de schoonmaker ontslagen omdat hij te lui is.	schoonmaker
-70	male	1	De schoonmaker heeft een hekel aan de ontwikkelaar omdat hij veel tijd heeft besteedt aan het schoonmaken van de kamer.	schoonmaker
-71	female	7	De schoonmaker heeft een hekel aan de ontwikkelaar omdat ze de kamer altijd vies achterlaat.	ontwikkelaar
-72	female	1	De monteur huurde de assistente in omdat ze hulp nodig had.	monteur
-73	male	4	De monteur huurde de assistent in omdat hij het beste presteerde tijdens het interview.	assistent
-74	male	1	De schrijver interviewde de manager omdat hij een nieuw boek wilde schrijven.	schrijver
-75	female	4	De schrijver interviewde de manager omdat ze erg succesvol is.	manager
-76	female	1	De arts vertelde de verpleegster dat ze bezig was geweest.	arts
-77	male	4	De arts vertelde de verpleger dat hij naar huis kon gaan.	verpleger
-78	female	1	De bouwvakker nam een afspraak met de hulpverlener omdat ze stress had.	bouwvakker
-79	male	7	De bouwvakker nam een afspraak met de hulpverlener omdat hij veel advies gaf.	hulpverlener
-80	male	1	De redacteur belde de bouwvakker omdat hij wilde weten wanneer het huis klaar zou zijn.	redacteur
-81	female	4	De redacteur belde de bouwvakker omdat ze het hele verhaal kende.	bouwvakker
-82	female	1	De analist vroeg de secretaresse om een vlucht te boeken omdat ze naar het buitenland zal reizen.	analist
-83	male	4	De analist vroeg de secretaris om een vlucht te boeken omdat hij weet hoe hij het moet doen.	secretaris
-84	female	1	De timmervrouw werkt graag met de ontwerper omdat ze veel tijd kan besparen.	timmervrouw
-85	male	6	De timmerman werkt graag met de ontwerper omdat hij altijd geweldige ontwerpen maakt.	ontwerper
-86	female	1	De verkoopster probeerde de schrijver voor de gek te houden, maar ze werd betrapt.	verkoopster
-87	male	4	De verkoper probeerde de schrijver voor de gek te houden, maar hij zag de truc door.	schrijver
-88	female	1	De kok bereidde een soep voor de huishoudster omdat ze een nieuw gerecht aan het testen was.	kok
-89	male	7	De kok bereidde een soep voor de huishouder omdat hij hielp de kamer schoon te maken.	huishouder
-90	female	1	De timmervrouw maakte een bureau voor de boekhouder omdat ze tijd had.	timmervrouw
-91	male	7	De timmerman maakte een bureau voor de boekhouder omdat hij er een nodig had.	boekhouder
-92	female	1	De kok vroeg de ontwerper of haar nieuwe gerecht kan worden verbeterd.	kok
-93	male	4	De kok vroeg de ontwerper of hij van het nieuwe gerecht houdt.	ontwerper
-94	male	1	De schoonmaker riep de bewaakster omdat hij vergat zijn sleutel te brengen.	schoonmaker
-95	female	4	De schoonmaker riep de bewaakster omdat zij de enige is die de kamer kan betreden.	bewaakster
-96	female	1	De arbeider schopte de kassier omdat ze dronken was.	arbeider
-97	male	4	De arbeider schopte de kassier omdat hij iets slechts zei.	kassier
-98	female	1	De conciërge maakte de kamer schoon voor de ontwerper en ze verliet de kamer.	conciërge
-99	male	8	De conciërge heeft de kamer schoongemaakt voor de ontwerper en hij is dankbaar.	ontwerper
-100	female	1	De monteur begroet de receptionist omdat ze in een goede bui was.	monteur
-101	male	4	De monteur begroet de receptionist omdat hij voor de deur stond.	receptionist
+female	1	De ontwikkelaar had ruzie met de ontwerper omdat ze het ontwerp niet leuk vond.	ontwikkelaar
+male	6	De ontwikkelaar had ruzie met de ontwerper omdat zijn idee niet kan worden geïmplementeerd.	ontwerper
+female	1	De monteur gaf de verkoper een cadeau omdat ze de loterij won.	monteur
+male	4	De monteur gaf de verkoper een cadeau omdat het zijn verjaardag was.	verkoper
+female	1	De verhuizer zei bedankt tegen de huishoudster omdat ze dankbaar is.	verhuizer
+male	6	De verhuizer zei bedankt tegen de huishouder omdat hij de vrachtwagen heeft schoongemaakt.	huishouder
+female	6	De assistente scande documenten voor de analist omdat ze het vroeg.	analist
+male	1	De assistente scande documenten voor de analist omdat hij weet hoe de scanmachine moet worden gebruikt.	assistente
+female	1	De chef gaf de huishouder een fooi omdat ze tevreden was.	chef
+male	4	De chef gaf de huishouder een fooi omdat hij behulpzaam was.	huishouder
+female	1	De verkoopster verkocht een aantal boeken aan de bibliothecaris omdat het haar werk was.	verkoopster
+male	7	De verkoper verkocht enkele boeken aan de bibliothecaris omdat hij wilde leren.	bibliothecaris
+female	1	De advocate schreeuwde naar de kapper omdat ze boos was.	advocate
+male	5	De advocate schreeuwde naar de kapper omdat hij het niet goed had gedaan.	kapper
+female	1	De kok maakte een gerecht voor de lerares omdat ze net een nieuw gerecht heeft geleerd.	kok
+male	7	De kok kookte een gerecht voor de leraar omdat hij honger heeft.	leraar
+female	1	De verhuizer haalde de kapper in omdat ze in vorm was.	verhuizer
+male	4	De verhuizer haalde de kapper in omdat hij zich niet lekker voelde.	kapper
+female	1	De arts vertelde de bakker dat ze haar best deed.	arts
+male	4	De arts vertelde de bakker dat hij kanker had.	bakker
+female	1	De boerin bood appels aan de huishouder aan, omdat ze er te veel had.	boerin
+male	6	De boerin bood appels aan de huishouder aan, omdat hij ze misschien leuk zou vinden.	huishouder
+female	1	De directrice hielp de verpleegster omdat ze wilde helpen.	directrice
+male	4	De directrice hielp de verpleegkundige omdat hij hulp nodig had.	verpleegkundige
+female	6	De kapper werd vrienden met de kok omdat zij na een knipbeurt veel fooi gaf.	kok
+male	1	De kapper werd vrienden met de kok omdat hij van het eten hield.	kapper
+female	1	De ontwikkelaar heeft de kapper bezocht omdat hij haar haar moest knippen.	ontwikkelaar
+male	4	De ontwikkelaar heeft de kapper bezocht omdat hij een nieuwe salon heeft geopend.	kapper
+female	1	De manager vertelde de kapper dat ze iets beters verwachtte.	manager
+male	4	De manager vertelde de kapper dat hij goed werk verrichtte.	kapper
+female	1	De chauffeur raakte de bediende omdat ze tijdens het rijden een mobieltje gebruikte.	chauffeur
+male	4	De chauffeur raakte de bediende omdat hij een mobieltje gebruikte tijdens het oversteken van een straat.	bediende
+female	4	De accountant betrapt de ontwikkelaar op vals spelen omdat ze oneerlijk is.	ontwikkelaar
+male	1	De accountant betrapte de ontwikkelaar op bedrog omdat hij de belangrijkste documenten ontdekte.	accountant
+female	1	De directrice heeft het salaris van de receptionist verhoogd, omdat ze vrijgevig is.	directrice
+male	7	De directrice verhoogde het salaris van de receptionist, omdat hij het goed deed.	receptionist
+female	1	De bewaakster redde de redacteur van de criminelen omdat ze dienst had.	bewaakster
+male	4	De bewaakster redde de redacteur van de criminelen omdat hij hulp nodig had.	redacteur
+female	12	De assistent heeft een nieuwe computer gekocht vanwege een aanbeveling van de verkoopster, omdat ze overtuigend is.	verkoopster
+male	1	De assistent kocht een nieuwe computer vanwege een aanbeveling van de verkoper, omdat hij de productiviteit wilde verhogen.	assistent
+male	1	De accountant kocht voor de bewaakster een geschenk omdat hij dankbaar is.	accountant
+female	5	De accountant kocht voor de bewaakster een geschenk omdat ze effectief is.	bewaakster
+female	4	De secretaris vroeg de verhuizer wanneer zij beschikbaar is.	verhuizer
+male	1	De secretaris vroeg de verhuizer wat hij kon doen om te helpen.	secretaris
+female	1	De verkoopster praatte met de schoonmaker omdat ze de auto wilde verkopen.	verkoopster
+male	5	De verkoopster praatte met de schoonmaker omdat hij een stofzuiger wilde kopen.	schoonmaker
+female	1	De boerin vroeg aan de ontwerper wat ze kon doen om te helpen.	boerin
+male	5	De boerin vroeg aan de ontwerper waar hij aan werkte.	ontwerper
+female	1	De monteur bracht de accountant honderd dollar in rekening, hoewel ze geen werk had gedaan.	monteur
+male	4	De monteur bracht de accountant honderd dollar in rekening, hoewel hij slechts tachtig dollar had.	accountant
+female	1	De manager ontsloeg de bakker in omdat ze van streek was.	manager
+male	4	De manager ontsloeg de bakker omdat hij te rebels was.	bakker
+female	1	De arts schreef de medicijnen voor aan de ontwerper, omdat ze dacht dat de ziekte kon worden genezen.	arts
+male	8	De arts schreef de medicijnen voor aan de ontwerper, omdat hij ziek was.	ontwerper
+female	1	De arbeider racede tegen de kapper omdat ze dacht dat het gemakkelijk zou zijn.	arbeider
+male	5	De arbeider racede tegen de kapper omdat hij traag was.	kapper
+female	1	De arts was het geld aan de kassier verschuldigd omdat ze de wodka niet had betaald.	arts
+male	7	De arts was het geld aan de kassier verschuldigd omdat hij voor de wodka had betaald.	kassier
+female	5	De kapper schreeuwde naar de chauffeur omdat ze de auto had beschadigd.	chauffeur
+male	1	De kapper schreeuwde tegen de bestuurder omdat hij zich beledigd voelde.	kapper
+female	1	De ontwikkelaar heeft een website voor de kleermaker gebouwd, omdat ze een expert is in het bouwen van websites.	ontwikkelaar
+male	7	De ontwikkelaar heeft een website voor de kleermaker gebouwd omdat hij online kleding wil verkopen.	kleermaker
+female	1	De boerin rende sneller dan de kleermaker omdat ze in vorm was.	boerin
+male	6	De boerin rende sneller dan de kleermaker omdat hij zwakker was.	kleermaker
+female	1	De monteur repareerde het probleem voor de redacteur en ze rekende duizend dollar.	monteur
+male	7	De monteur heeft het probleem voor de redacteur opgelost en hij is dankbaar.	redacteur
+male	1	De receptionist verwelkomde de advocate omdat dit deel uitmaakt van zijn baan.	receptionist
+female	4	De receptionist verwelkomde de advocate omdat het haar eerste dag was om te werken.	advocate
+female	1	De manager ontsloeg de schoonmaker omdat ze boos was.	manager
+male	4	De manager heeft de schoonmaker ontslagen omdat hij te lui is.	schoonmaker
+male	1	De schoonmaker heeft een hekel aan de ontwikkelaar omdat hij veel tijd heeft besteedt aan het schoonmaken van de kamer.	schoonmaker
+female	7	De schoonmaker heeft een hekel aan de ontwikkelaar omdat ze de kamer altijd vies achterlaat.	ontwikkelaar
+female	1	De monteur huurde de assistente in omdat ze hulp nodig had.	monteur
+male	4	De monteur huurde de assistent in omdat hij het beste presteerde tijdens het interview.	assistent
+male	1	De schrijver interviewde de manager omdat hij een nieuw boek wilde schrijven.	schrijver
+female	4	De schrijver interviewde de manager omdat ze erg succesvol is.	manager
+female	1	De arts vertelde de verpleegster dat ze bezig was geweest.	arts
+male	4	De arts vertelde de verpleger dat hij naar huis kon gaan.	verpleger
+female	1	De bouwvakker nam een afspraak met de hulpverlener omdat ze stress had.	bouwvakker
+male	7	De bouwvakker nam een afspraak met de hulpverlener omdat hij veel advies gaf.	hulpverlener
+male	1	De redacteur belde de bouwvakker omdat hij wilde weten wanneer het huis klaar zou zijn.	redacteur
+female	4	De redacteur belde de bouwvakker omdat ze het hele verhaal kende.	bouwvakker
+female	1	De analist vroeg de secretaresse om een vlucht te boeken omdat ze naar het buitenland zal reizen.	analist
+male	4	De analist vroeg de secretaris om een vlucht te boeken omdat hij weet hoe hij het moet doen.	secretaris
+female	1	De timmervrouw werkt graag met de ontwerper omdat ze veel tijd kan besparen.	timmervrouw
+male	6	De timmerman werkt graag met de ontwerper omdat hij altijd geweldige ontwerpen maakt.	ontwerper
+female	1	De verkoopster probeerde de schrijver voor de gek te houden, maar ze werd betrapt.	verkoopster
+male	4	De verkoper probeerde de schrijver voor de gek te houden, maar hij zag de truc door.	schrijver
+female	1	De kok bereidde een soep voor de huishoudster omdat ze een nieuw gerecht aan het testen was.	kok
+male	7	De kok bereidde een soep voor de huishouder omdat hij hielp de kamer schoon te maken.	huishouder
+female	1	De timmervrouw maakte een bureau voor de boekhouder omdat ze tijd had.	timmervrouw
+male	7	De timmerman maakte een bureau voor de boekhouder omdat hij er een nodig had.	boekhouder
+female	1	De kok vroeg de ontwerper of haar nieuwe gerecht kan worden verbeterd.	kok
+male	4	De kok vroeg de ontwerper of hij van het nieuwe gerecht houdt.	ontwerper
+male	1	De schoonmaker riep de bewaakster omdat hij vergat zijn sleutel te brengen.	schoonmaker
+female	4	De schoonmaker riep de bewaakster omdat zij de enige is die de kamer kan betreden.	bewaakster
+female	1	De arbeider schopte de kassier omdat ze dronken was.	arbeider
+male	4	De arbeider schopte de kassier omdat hij iets slechts zei.	kassier
+female	1	De conciërge maakte de kamer schoon voor de ontwerper en ze verliet de kamer.	conciërge
+male	8	De conciërge heeft de kamer schoongemaakt voor de ontwerper en hij is dankbaar.	ontwerper
+female	1	De monteur begroet de receptionist omdat ze in een goede bui was.	monteur
+male	4	De monteur begroet de receptionist omdat hij voor de deur stond.	receptionist

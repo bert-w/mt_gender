@@ -26,5 +26,5 @@ print(f"{errors=}")
 df['index'] = indeces
 df
 # %%
-df.to_csv(DATA_DIR/'nl.txt', sep='\t',header=None)
+df.to_csv(DATA_DIR/'nl.txt', sep='\t',header=None, index=False)
 # %%
