@@ -27,7 +27,7 @@ class SpacyPredictor:
         """
         Init spacy for the specified language code.
         """
-        assert lang in ["es", "fr", "it"]
+        # assert lang in ["es", "fr", "it"]
         self.lang = lang
         self.cache = {}    # Store calculated professions genders
         self.nlp = spacy.load(self.lang, disable = ["parser", "ner"])

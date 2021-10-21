@@ -71,8 +71,8 @@ def get_morphology_dict(token: Token) -> Dict:
     Parse a morphology dictionary from spacy token.
     @TODO: No better way to do this?
     """
-    if "__" not in token.tag_:
-        raise AssertionError("No morphology support?")
+    # if "__" not in token.tag_:
+    #     raise AssertionError("No morphology support?")
 
     morphology = token.tag_.split("__")[1]
 

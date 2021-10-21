@@ -26,7 +26,7 @@ from languages.czech import CzechPredictor
 #=-----
 
 LANGAUGE_PREDICTOR = {
-    "es": lambda: SpacyPredictor("es"),
+    "es": lambda: SpacyPredictor("es_core_news_sm"),
     "fr": lambda: SpacyPredictor("fr"),
     "it": lambda: SpacyPredictor("it"),
     "ru": lambda: PymorphPredictor("ru"),
@@ -141,14 +141,22 @@ def align_bitext_to_ds(bitext, ds):
 
 if __name__ == "__main__":
     # Parse command line arguments
-    args = docopt(__doc__)
-    ds_fn = args["--ds"]
-    bi_fn = args["--bi"]
-    align_fn = args["--align"]
-    out_fn = args["--out"]
-    lang = args["--lang"]
+    # args = docopt(__doc__)
+    # ds_fn = args["--ds"]
+    # bi_fn = args["--bi"]
+    # align_fn = args["--align"]
+    # out_fn = args["--out"]
+    # lang = args["--lang"]
+    #
+    # probeer alignments in woorden te outputten om alignment te checken/debuggen
 
-    debug = args["--debug"]
+    ds_fn = "data\\aggregates\\nl.txt"
+    bi_fn = "translations\\deepl\\nl-es.txt"
+    align_fn = "src\\forward.nl-es.align"
+    out_fn = "output\\debugout.txt"
+    lang = "es"
+
+    debug = True # args["--debug"]
     if debug:
         logging.basicConfig(level = logging.DEBUG)
     else:
@@ -170,7 +178,7 @@ if __name__ == "__main__":
                           for prof, translated_sent, entity_index, ds_entry
                           in tqdm(zip(translated_profs,
                                       target_sentences,
-                                      map(lambda ls:min(ls, default = -1), tgt_inds),
+                                      map(lambda ls:min(ls, default = -1), tgt_inds), # weirddd min
                                       ds))]
 
     # Output predictions
