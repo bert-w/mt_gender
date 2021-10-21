@@ -1,17 +1,19 @@
 """ Usage:
-    <file-name> --ds=DATASET_FILE --bi=IN_FILE --align=ALIGN_FILE --out=OUT_FILE --lang=LANG  [--debug]
+    --ds=DATASET_FILE --bi=IN_FILE --align=ALIGN_FILE --out=OUT_FILE --lang=LANG  [--debug]
 """
 # External imports
 import logging
 import pdb
 from pprint import pprint
 from pprint import pformat
+import sys
 from docopt import docopt
 from collections import defaultdict, Counter
 from operator import itemgetter
 from tqdm import tqdm
-from typing import List
+from typing import List, Optional, Union
 import csv
+import re
 
 # Local imports
 from languages.spacy_support import SpacyPredictor
@@ -24,6 +26,7 @@ from languages.morfeusz_support import MorfeuszPredictor
 from evaluate import evaluate_bias
 from languages.czech import CzechPredictor
 #=-----
+ENGLISH_ONLY = False
 
 LANGAUGE_PREDICTOR = {
     "es": lambda: SpacyPredictor("es_core_news_sm"),
@@ -38,16 +41,28 @@ LANGAUGE_PREDICTOR = {
     "pl": lambda: MorfeuszPredictor(),
 }
 
+def no_punct(sentence: str):
+    clean = re.sub(r"""
+                [,.;@#?!&$]+  # Accept one or more copies of punctuation
+                \ *           # plus zero or more copies of a space,
+                """,
+                " ",          # and replace it with a single space
+                sentence, flags=re.VERBOSE)
+    return clean
+
 def get_src_indices(instance: List[str]) -> List[int]:
     """
     (English)
     Determine a list of source side indices pertaining to a
-    given instance in the dataset.
+    given instance in the dataset. # TODO nederlands moet ook het lidwoord erbij
     """
     _, src_word_ind, sent = instance[: 3]
     src_word_ind = int(src_word_ind)
     sent_tok = sent.split(" ")
-    if (src_word_ind > 0) and (sent_tok[src_word_ind - 1].lower() in ["the", "an", "a"]):
+    articles = ["the", "an", "a", "de", "het", "een"]
+    if ENGLISH_ONLY:
+        articles = articles[:3]
+    if (src_word_ind > 0) and (sent_tok[src_word_ind - 1].lower() in articles):
         src_indices = [src_word_ind -1]
     else:
         src_indices = []
@@ -75,7 +90,7 @@ def get_translated_professions(alignment_fn: str, ds: List[List[str]], bitext: L
     bitext = [(ind, (src_sent.split(), tgt_sent.split()))
               for ind, (src_sent, tgt_sent) in bitext]
 
-    src_indices = list(map(get_src_indices, ds))
+    src_indices = list(map(get_src_indices, ds)) # add articles in the mix
 
     full_alignments = []
     for line in open(align_fn):
@@ -99,7 +114,7 @@ def get_translated_professions(alignment_fn: str, ds: List[List[str]], bitext: L
     translated_professions = []
     target_indices = []
 
-    for (_, (src_sent, tgt_sent)), alignment, cur_indices in tqdm(zip(bitext, alignments, src_indices)):
+    for (_, (src_sent, tgt_sent)), alignment, cur_indices in tqdm(zip(bitext, alignments, src_indices), disable=False):
         # cur_translated_profession = " ".join([tgt_sent[cur_tgt_ind]
         #                                       for src_ind in cur_indices
         #                                       for cur_tgt_ind in alignment[src_ind]])
@@ -109,6 +124,7 @@ def get_translated_professions(alignment_fn: str, ds: List[List[str]], bitext: L
 
         cur_translated_profession = " ".join([tgt_sent[cur_tgt_ind]
                                               for cur_tgt_ind in cur_tgt_inds])
+        print_prof_alignment(src_sent, tgt_sent, cur_indices, cur_tgt_inds, file_name="output/highlights_met_lidwoorden.txt")
         target_indices.append(cur_tgt_inds)
         translated_professions.append(cur_translated_profession)
 
@@ -138,6 +154,44 @@ def align_bitext_to_ds(bitext, ds):
         ind, tgt_sent = bitext_dict[en_sent]
         new_bitext.append((ind, (en_sent, tgt_sent)))
     return new_bitext
+
+def highlight_words(sentence: Union[list, str], word_indices: list, highlight_char='^'):
+    if isinstance(sentence, str):
+        words = no_punct(sentence).split()
+    elif isinstance(sentence, list):
+        words = sentence
+        sentence = ' '.join(words)
+    else:
+        raise TypeError
+    word_starts = [0]
+    for word in words:
+        word_starts.append(word_starts[-1]+len(word)+1)
+    lint = [' ']*len(sentence) 
+    for word_idx in word_indices:
+        start = word_starts[word_idx]
+        stop = word_starts[word_idx+1] -1
+        for i in range(start, stop):
+            lint[i] = highlight_char
+    return ''.join(lint)    
+
+def print_prof_alignment(source_sentence, target_sentence, source_idx: list, target_idx: list, file_name: Optional[str]=None):
+    if file_name is None:
+        out = sys.stdout
+    else:
+        out = open(file_name, 'a')
+    if isinstance(source_sentence, list):
+        print(' '.join(source_sentence), file=out)
+    else:
+        print(source_sentence, file=out)
+    print(highlight_words(source_sentence, source_idx), file=out)
+    if isinstance(target_sentence, list):
+        print(' '.join(target_sentence), file=out)
+    else:
+        print(target_sentence, file=out)
+    print(highlight_words(target_sentence, target_idx), file=out)
+    print('='*50 + '\n', file=out)
+    out.close()
+
 
 if __name__ == "__main__":
     # Parse command line arguments
