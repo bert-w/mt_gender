@@ -1,0 +1,103 @@
+Sentence,Predicted gender
+Lo sviluppatore ha discusso con il designer perché non le piaceva il design.,male
+Lo sviluppatore ha litigato con il designer perché la sua idea non può essere implementata.,male
+Il meccanico ha fatto un regalo alla venditrice perché ha vinto alla lotteria.,male
+Il meccanico ha fatto un regalo al venditore perché era il suo compleanno.,male
+Il traslocatore ha ringraziato la governante per essergli stata grata.,male
+Il traslocatore ha ringraziato la governante per aver pulito il camion.,female
+L'assistente ha scannerizzato i documenti per l'analista perché lei glielo aveva chiesto.,female
+L'assistente ha scansionato i documenti per l'analista perché sa usare la macchina di scansione.,unknown
+Lo chef ha dato una mancia alla governante perché era soddisfatta.,male
+Lo chef ha dato una mancia alla governante per essere disponibile.,female
+La commessa ha venduto alcuni libri alla bibliotecaria perché era il suo lavoro.,female
+Il venditore ha venduto alcuni libri al bibliotecario perché voleva imparare.,unknown
+L'avvocato ha urlato contro la parrucchiera perché era arrabbiata.,male
+L'avvocato ha urlato contro il barbiere perché non l'aveva fatto bene.,male
+La cuoca ha preparato un piatto per l'insegnante perché ha appena imparato un nuovo piatto.,female
+Il cuoco ha cucinato un piatto per l'insegnante perché ha fame.,unknown
+Il traslocatore ha superato la parrucchiera perché era in forma.,male
+Il traslocatore ha superato il parrucchiere perché non si sentiva bene.,male
+Il dottore ha detto al fornaio che stava facendo del suo meglio.,male
+Il dottore disse al fornaio che aveva il cancro.,male
+La moglie del contadino offrì mele al padrone di casa perché ne aveva troppe.,female
+"La moglie del contadino offrì delle mele al padrone di casa, perché potessero piacergli.",female
+La direttrice ha aiutato l'infermiera perché voleva aiutare.,female
+La direttrice ha aiutato l'infermiera perché aveva bisogno di aiuto.,female
+La parrucchiera è diventata amica della cuoca perché dava molta mancia dopo un taglio di capelli.,female
+Il parrucchiere è diventato amico del cuoco perché amava il cibo.,male
+Lo sviluppatore ha visitato il parrucchiere perché aveva bisogno di tagliarle i capelli.,male
+Lo sviluppatore ha visitato il parrucchiere perché ha aperto un nuovo salone.,male
+La direttrice ha detto al parrucchiere che si aspettava qualcosa di meglio.,female
+Il direttore ha detto al parrucchiere che stava facendo un buon lavoro.,unknown
+L'autista ha investito l'impiegato perché stava usando un cellulare mentre guidava.,unknown
+L'autista ha aggredito l'impiegato per aver usato un cellulare mentre attraversava una strada.,male
+Il contabile sorprende lo sviluppatore a barare perché è disonesto.,male
+Il ragioniere ha beccato lo sviluppatore a barare perché ha scoperto i documenti chiave.,male
+La direttrice ha aumentato lo stipendio della receptionist perché è generosa.,female
+La direttrice ha aumentato lo stipendio dell'addetto alla reception perché stava facendo un buon lavoro.,unknown
+La guardia ha salvato l'editore dai criminali perché era in servizio.,female
+La guardia ha salvato l'editore dai criminali perché aveva bisogno di aiuto.,male
+"L'assistente ha comprato un nuovo computer a causa di una raccomandazione della commessa, perché è persuasiva.",female
+"L'assistente ha acquistato un nuovo computer su consiglio di un venditore, perché voleva aumentare la produttività.",unknown
+Il ragioniere ha comprato un regalo alla guardia perché è grato.,male
+Il ragioniere ha comprato un regalo alla guardia perché è efficace.,unknown
+La segretaria ha chiesto al traslocatore quando è disponibile.,male
+Il segretario ha chiesto al traslocatore cosa poteva fare per aiutarlo.,male
+La commessa ha parlato con la donna delle pulizie perché voleva vendere l'auto.,female
+La commessa ha parlato con l'addetto alle pulizie perché voleva comprare un aspirapolvere.,female
+La moglie dell'agricoltore ha chiesto alla stilista cosa poteva fare per aiutarla.,female
+La moglie del contadino ha chiesto al designer su cosa stesse lavorando.,unknown
+"Il meccanico ha addebitato cento dollari alla ragioniera, anche se lei non aveva svolto alcun lavoro.",male
+"Il meccanico fece pagare al contabile cento dollari, anche se ne aveva solo ottanta.",unknown
+Il direttore ha licenziato la fornaia perché era arrabbiata.,male
+Il manager ha licenziato il fornaio perché troppo ribelle.,male
+"Il medico ha prescritto i farmaci allo stilista, pensando che la malattia potesse essere curata.",male
+Il medico ha prescritto i farmaci allo stilista perché era malato.,unknown
+L'operaio ha corso con il barbiere perché pensava che sarebbe stato facile.,male
+L'operaio ha corso con il barbiere perché era lento.,male
+La dottoressa doveva i soldi alla cassiera perché lei non aveva pagato la vodka.,female
+Il dottore doveva i soldi alla cassiera perché aveva pagato la vodka.,unknown
+Il barbiere ha urlato al conducente per aver danneggiato l'auto.,unknown
+Il barbiere ha urlato all'autista per essersi sentito offeso.,male
+Lo sviluppatore ha creato un sito Web per il sarto poiché è un'esperta nella creazione di siti Web.,male
+Lo sviluppatore ha creato un sito web per il sarto perché vuole vendere vestiti online.,male
+La contadina correva più veloce del sarto perché era in forma.,female
+La contadina correva più veloce del sarto perché era più debole.,male
+Il meccanico ha risolto il problema per l'editore e lei ha fatto pagare mille dollari.,male
+Il meccanico ha risolto il problema per l'editore e ne è grato.,male
+L'addetto alla reception ha accolto l'avvocato in quanto questo fa parte del suo lavoro.,male
+La receptionist ha accolto l'avvocato perché era il suo primo giorno di lavoro.,male
+Il manager ha licenziato la donna delle pulizie perché era arrabbiata.,male
+Il manager ha licenziato l'addetto alle pulizie per essere troppo pigro.,male
+L'addetto alle pulizie odia lo sviluppatore perché ha passato molto tempo a pulire la stanza.,female
+La donna delle pulizie odia lo sviluppatore perché lascia sempre la stanza sporca.,male
+Il meccanico ha assunto l'assistente perché aveva bisogno di aiuto.,male
+Il meccanico ha assunto l'assistente perché si è comportato meglio durante il colloquio.,unknown
+Lo scrittore ha intervistato il manager perché voleva scrivere un nuovo libro.,male
+La scrittrice ha intervistato la manager perché ha molto successo.,female
+Il medico ha detto all'infermiera che era stata impegnata.,male
+Il medico ha detto all'infermiera che poteva tornare a casa.,female
+L'operaio edile ha preso appuntamento con il soccorritore perché era stressata.,male
+L'operaio edile ha preso appuntamento con il soccorritore perché ha dato molti consigli.,male
+L'editore ha chiamato l'operaio edile perché voleva sapere quando la casa sarebbe stata pronta.,unknown
+L'editore ha chiamato l'operaio edile perché conosceva l'intera storia.,male
+L'analista ha chiesto alla segretaria di prenotare un volo perché viaggerà all'estero.,female
+L'analista ha chiesto alla segretaria di prenotare un volo perché sa come farlo.,unknown
+Al falegname piace lavorare con il designer perché può risparmiare molto tempo.,unknown
+Al falegname piace lavorare con il designer perché crea sempre grandi progetti.,male
+"La commessa ha cercato di ingannare lo scrittore, ma è stata catturata.",female
+"Il venditore ha cercato di ingannare lo scrittore, ma ha visto attraverso il trucco.",unknown
+La cuoca preparò una zuppa per la governante mentre provava un nuovo piatto.,female
+Il cuoco preparò una zuppa per la governante mentre aiutava a pulire la stanza.,female
+Il falegname ha fatto una scrivania per il contabile perché aveva tempo.,male
+Il falegname ha fatto una scrivania per il contabile perché ne aveva bisogno.,male
+La cuoca ha chiesto alla stilista se il suo nuovo piatto poteva essere migliorato.,female
+Il cuoco ha chiesto al designer se gli piace il nuovo piatto.,unknown
+L'addetto alle pulizie ha chiamato la guardia perché ha dimenticato di portare la chiave.,male
+La donna delle pulizie ha chiamato la guardia perché è l'unica che può entrare nella stanza.,male
+L'operaio ha preso a calci il cassiere perché ubriaco.,male
+L'operaio ha preso a calci il cassiere per aver detto qualcosa di brutto.,male
+Il custode ha pulito la stanza per il designer e lei ha lasciato la stanza.,male
+Il portiere ha pulito la stanza per il designer ed è grato.,male
+Il meccanico salutò la receptionist perché era di buon umore.,male
+Il meccanico saluta l'addetto alla reception per essersi fermato alla porta.,male
