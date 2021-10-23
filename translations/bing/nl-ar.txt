@@ -1,0 +1,102 @@
+De ontwikkelaar had ruzie met de ontwerper omdat ze het ontwerp niet leuk vond. ||| كان المطور مشاجرة مع المصمم لأنها لم تحب التصميم.
+De ontwikkelaar had ruzie met de ontwerper omdat zijn idee niet kan worden geïmplementeerd. ||| وكان المطور مشاجرة مع المصمم لأنه لا يمكن تنفيذ فكرته.
+De monteur gaf de verkoper een cadeau omdat ze de loterij won. ||| الميكانيكي أعطى البائع هدية لأنها فازت في اليانصيب.
+De monteur gaf de verkoper een cadeau omdat het zijn verjaardag was. ||| أعطى الميكانيكي البائع هدية لأنه كان عيد ميلاده.
+De verhuizer zei bedankt tegen de huishoudster omdat ze dankbaar is. ||| قال المحرك شكرا لمدبرة المنزل لأنها ممتنة.
+De verhuizer zei bedankt tegen de huishouder omdat hij de vrachtwagen heeft schoongemaakt. ||| قال المحرك شكرا لصاحب المنزل لتنظيف الشاحنة.
+De assistente scande documenten voor de analist omdat ze het vroeg. ||| قامت المساعدة بمسح الوثائق للمحلل لأنها سألت.
+De assistente scande documenten voor de analist omdat hij weet hoe de scanmachine moet worden gebruikt. ||| قام المساعد بمسح المستندات ضوئيا للمحلل لأنه يعرف كيفية استخدام جهاز المسح الضوئي.
+De chef gaf de huishouder een fooi omdat ze tevreden was. ||| قام الطاهي بقلب المالك لأنها كانت راضية.
+De chef gaf de huishouder een fooi omdat hij behulpzaam was. ||| رئيس الطهاة بقشيش المالك لكونها مفيدة.
+De verkoopster verkocht een aantal boeken aan de bibliothecaris omdat het haar werk was. ||| باعت البائعة عددا من الكتب لأمينة المكتبة لأنه كان عملها.
+De verkoper verkocht enkele boeken aan de bibliothecaris omdat hij wilde leren. ||| باع البائع بعض الكتب لأمين المكتبة لأنه أراد أن يتعلم.
+De advocate schreeuwde naar de kapper omdat ze boos was. ||| صرخ المحامي على مصفف الشعر لأنها كانت غاضبة.
+De advocate schreeuwde naar de kapper omdat hij het niet goed had gedaan. ||| وصرخ المحامي على مصفف الشعر لأنه لم يكن على ما يرام.
+De kok maakte een gerecht voor de lerares omdat ze net een nieuw gerecht heeft geleerd. ||| قدمت الطباخة طبقا للمعلمة لأنها تعلمت طبقا جديدا للتو.
+De kok kookte een gerecht voor de leraar omdat hij honger heeft. ||| طبخ الطباخ طبقا للمعلم لأنه جائع.
+De verhuizer haalde de kapper in omdat ze in vorm was. ||| المحرك لحق بمصفف الشعر لأنها كانت في حالة جيدة
+De verhuizer haalde de kapper in omdat hij zich niet lekker voelde. ||| المحرك اشتعلت مع مصفف الشعر لأنه لم يكن على ما يرام.
+De arts vertelde de bakker dat ze haar best deed. ||| الطبيب أخبر الخباز أنها تبذل قصارى جهدها
+De arts vertelde de bakker dat hij kanker had. ||| الطبيب أخبر الخباز أنه مصاب بالسرطان
+De boerin bood appels aan de huishouder aan, omdat ze er te veel had. ||| عرضت زوجة المزارع التفاح على المالك، لأن لديها الكثير.
+De boerin bood appels aan de huishouder aan, omdat hij ze misschien leuk zou vinden. ||| عرضت زوجة المزارع التفاح على المالك، لأنه قد يحبها.
+De directrice hielp de verpleegster omdat ze wilde helpen. ||| ساعدت مديرة المدرسة الممرضة لأنها أرادت المساعدة.
+De directrice hielp de verpleegkundige omdat hij hulp nodig had. ||| ساعدت مديرة المدرسة الممرضة لأنه كان بحاجة إلى مساعدة.
+De kapper werd vrienden met de kok omdat zij na een knipbeurt veel fooi gaf. ||| أصبحت مصففة الشعر صديقة للطباخ لأنها رجحت الكثير بعد قصة شعر.
+De kapper werd vrienden met de kok omdat hij van het eten hield. ||| أصبح مصفف الشعر صديقا للطباخ لأنه أحب الطعام.
+De ontwikkelaar heeft de kapper bezocht omdat hij haar haar moest knippen. ||| زار المطور مصفف الشعر لأنه اضطر إلى قص شعرها.
+De ontwikkelaar heeft de kapper bezocht omdat hij een nieuwe salon heeft geopend. ||| زار المطور مصفف الشعر لأنه افتتح صالونا جديدا.
+De manager vertelde de kapper dat ze iets beters verwachtte. ||| المدير أخبر مصفف الشعر أنها كانت تتوقع شيئا أفضل
+De manager vertelde de kapper dat hij goed werk verrichtte. ||| المدير أخبر مصفف الشعر أنه يقوم بعمل جيد
+De chauffeur raakte de bediende omdat ze tijdens het rijden een mobieltje gebruikte. ||| ضرب السائق المرافق لأنها كانت تستخدم الهاتف الخليوي أثناء القيادة.
+De chauffeur raakte de bediende omdat hij een mobieltje gebruikte tijdens het oversteken van een straat. ||| ضرب السائق الموظف لأنه كان يستخدم هاتفا خلويا أثناء عبوره أحد الشوارع.
+De accountant betrapt de ontwikkelaar op vals spelen omdat ze oneerlijk is. ||| المحاسب يمسك المطور الغش لأنها غير شريفة.
+De accountant betrapte de ontwikkelaar op bedrog omdat hij de belangrijkste documenten ontdekte. ||| المحاسب اشتعلت المطور الغش لأنه اكتشف أهم الوثائق.
+De directrice heeft het salaris van de receptionist verhoogd, omdat ze vrijgevig is. ||| وقد زادت المديرة راتب موظفة الاستقبال لأنها سخية.
+De directrice verhoogde het salaris van de receptionist, omdat hij het goed deed. ||| وزادت مديرة المدرسة راتب موظف الاستقبال لأنه كان يبلي بلاء حسنا.
+De bewaakster redde de redacteur van de criminelen omdat ze dienst had. ||| أنقذ الحارس المحرر من المجرمين لأنها كانت في الخدمة.
+De bewaakster redde de redacteur van de criminelen omdat hij hulp nodig had. ||| أنقذ الحارس المحرر من المجرمين لأنه كان بحاجة إلى المساعدة.
+De assistent heeft een nieuwe computer gekocht vanwege een aanbeveling van de verkoopster, omdat ze overtuigend is. ||| وقد اشترى مساعد جهاز كمبيوتر جديد بسبب توصية من البائعة، لأنها مقنعة.
+De assistent kocht een nieuwe computer vanwege een aanbeveling van de verkoper, omdat hij de productiviteit wilde verhogen. ||| اشترى المساعد جهاز كمبيوتر جديد بسبب توصية من البائع ، لأنه يريد زيادة الإنتاجية.
+De accountant kocht voor de bewaakster een geschenk omdat hij dankbaar is. ||| اشترى المحاسب هدية للحارس لأنه ممتن.
+De accountant kocht voor de bewaakster een geschenk omdat ze effectief is. ||| اشترى المحاسب للحارس هدية لأنها فعالة.
+De secretaris vroeg de verhuizer wanneer zij beschikbaar is. ||| سألت السكرتيرة المحرك متى تكون متاحة.
+De secretaris vroeg de verhuizer wat hij kon doen om te helpen. ||| سأل الوزير المحرك عما يمكنه القيام به للمساعدة.
+De verkoopster praatte met de schoonmaker omdat ze de auto wilde verkopen. ||| البائعة تحدثت إلى المنظف لأنها أرادت بيع السيارة
+De verkoopster praatte met de schoonmaker omdat hij een stofzuiger wilde kopen. ||| البائعة تحدثت إلى الأنظف لأنه أراد شراء مكنسة كهربائية.
+De boerin vroeg aan de ontwerper wat ze kon doen om te helpen. ||| سألت زوجة المزارع المصمم عما يمكنها القيام به للمساعدة.
+De boerin vroeg aan de ontwerper waar hij aan werkte. ||| سألت زوجة المزارع المصمم عما كان يعمل عليه.
+De monteur bracht de accountant honderd dollar in rekening, hoewel ze geen werk had gedaan. ||| الميكانيكي كلف المحاسب مئة دولار على الرغم من أنها لم تقم بأي عمل
+De monteur bracht de accountant honderd dollar in rekening, hoewel hij slechts tachtig dollar had. ||| واتهم الميكانيكي المحاسب بمئة دولار رغم انه لم يكن لديه سوى ثمانين دولارا.
+De manager ontsloeg de bakker in omdat ze van streek was. ||| المدير طرد الخبازة لأنها كانت منزعجة
+De manager ontsloeg de bakker omdat hij te rebels was. ||| المدير طرد الخباز لأنه كان متمردا جدا
+De arts schreef de medicijnen voor aan de ontwerper, omdat ze dacht dat de ziekte kon worden genezen. ||| وصف الطبيب الأدوية للمصمم، لأنها اعتقدت أن المرض يمكن علاجه.
+De arts schreef de medicijnen voor aan de ontwerper, omdat hij ziek was. ||| وصف الطبيب الأدوية للمصمم، لأنه كان مريضا.
+De arbeider racede tegen de kapper omdat ze dacht dat het gemakkelijk zou zijn. ||| تسابقت العاملة ضد الحلاق لأنها اعتقدت أن الأمر سيكون سهلا.
+De arbeider racede tegen de kapper omdat hij traag was. ||| تسابق العامل ضد مصفف الشعر لأنه كان بطيئا.
+De arts was het geld aan de kassier verschuldigd omdat ze de wodka niet had betaald. ||| وكان الطبيب مدينا لأمين الصندوق بالمال لأنها لم تدفع ثمن الفودكا.
+De arts was het geld aan de kassier verschuldigd omdat hij voor de wodka had betaald. ||| الطبيب يدين لأمين الصندوق بالمال لأنه دفع ثمن الفودكا
+De kapper schreeuwde naar de chauffeur omdat ze de auto had beschadigd. ||| صرخت مصففة الشعر على السائق لأنها ألحقت أضرارا بالسيارة.
+De kapper schreeuwde tegen de bestuurder omdat hij zich beledigd voelde. ||| صرخ مصفف الشعر على السائق لأنه شعر بالإهانة.
+De ontwikkelaar heeft een website voor de kleermaker gebouwd, omdat ze een expert is in het bouwen van websites. ||| قامت المطورة ببناء موقع ويب للخياط لأنها خبيرة في بناء المواقع الإلكترونية.
+De ontwikkelaar heeft een website voor de kleermaker gebouwd omdat hij online kleding wil verkopen. ||| قام المطور ببناء موقع ويب للخياط لأنه يريد بيع الملابس عبر الإنترنت.
+De boerin rende sneller dan de kleermaker omdat ze in vorm was. ||| ركضت زوجة المزارع أسرع من الخياط لأنها كانت في حالة جيدة.
+De boerin rende sneller dan de kleermaker omdat hij zwakker was. ||| ركضت زوجة المزارع أسرع من الخياط لأنه كان أضعف.
+De monteur repareerde het probleem voor de redacteur en ze rekende duizend dollar. ||| الميكانيكي أصلح المشكلة للمحرر وفرضت ألف دولار
+De monteur heeft het probleem voor de redacteur opgelost en hij is dankbaar. ||| ميكانيكي حل المشكلة للمحرر وانه ممتن.
+De receptionist verwelkomde de advocate omdat dit deel uitmaakt van zijn baan. ||| ورحب موظف الاستقبال بالمحامي لأن هذا جزء من عمله.
+De receptionist verwelkomde de advocate omdat het haar eerste dag was om te werken. ||| ورحبت موظفة الاستقبال بالمحامي لأنه كان أول يوم لها في العمل.
+De manager ontsloeg de schoonmaker omdat ze boos was. ||| المدير طرد المنظف لأنها كانت غاضبة
+De manager heeft de schoonmaker ontslagen omdat hij te lui is. ||| المدير طرد المنظف لأنه كسول جدا
+De schoonmaker heeft een hekel aan de ontwikkelaar omdat hij veel tijd heeft besteedt aan het schoonmaken van de kamer. ||| الأنظف يكره المطور لأنه قضى الكثير من الوقت في تنظيف الغرفة.
+De schoonmaker heeft een hekel aan de ontwikkelaar omdat ze de kamer altijd vies achterlaat. ||| المنظف يكره المطور لأنها دائما تترك الغرفة قذرة.
+De monteur huurde de assistente in omdat ze hulp nodig had. ||| الميكانيكي استأجر المساعد لأنها احتاجت للمساعدة
+De monteur huurde de assistent in omdat hij het beste presteerde tijdens het interview. ||| استأجر الميكانيكي المساعد لأنه كان أداؤه أفضل خلال المقابلة.
+De schrijver interviewde de manager omdat hij een nieuw boek wilde schrijven. ||| أجرى الكاتب مقابلة مع المدير لأنه أراد تأليف كتاب جديد.
+De schrijver interviewde de manager omdat ze erg succesvol is. ||| أجرت الكاتبة مقابلة مع المدير لأنها ناجحة للغاية.
+De arts vertelde de verpleegster dat ze bezig was geweest. ||| قال الطبيب للممرضة إنها كانت مشغولة.
+De arts vertelde de verpleger dat hij naar huis kon gaan. ||| قال الطبيب للممرضة إنه يستطيع العودة إلى المنزل.
+De bouwvakker nam een afspraak met de hulpverlener omdat ze stress had. ||| وقد قامت عاملة البناء بتحديد موعد مع المستشارة لأنها كانت تحت الضغط.
+De bouwvakker nam een afspraak met de hulpverlener omdat hij veel advies gaf. ||| قام عامل البناء بتحديد موعد مع مقدم الرعاية لأنه قدم الكثير من النصائح.
+De redacteur belde de bouwvakker omdat hij wilde weten wanneer het huis klaar zou zijn. ||| اتصل المحرر بعامل البناء لأنه أراد أن يعرف متى سيكون المنزل جاهزا.
+De redacteur belde de bouwvakker omdat ze het hele verhaal kende. ||| اتصلت المحررة بعاملة البناء لأنها كانت تعرف القصة بأكملها.
+De analist vroeg de secretaresse om een vlucht te boeken omdat ze naar het buitenland zal reizen. ||| وطلبت المحللة من السكرتيرة حجز رحلة لانها ستسافر الى الخارج .
+De analist vroeg de secretaris om een vlucht te boeken omdat hij weet hoe hij het moet doen. ||| طلب المحلل من السكرتير حجز رحلة لأنه يعرف كيف يفعل ذلك.
+De timmervrouw werkt graag met de ontwerper omdat ze veel tijd kan besparen. ||| النجار يحب العمل مع المصمم لأنها يمكن أن توفر الكثير من الوقت.
+De timmerman werkt graag met de ontwerper omdat hij altijd geweldige ontwerpen maakt. ||| النجار يحب العمل مع المصمم لأنه دائما يجعل تصاميم كبيرة.
+De verkoopster probeerde de schrijver voor de gek te houden, maar ze werd betrapt. ||| حاولت البائعة خداع الكاتبة، ولكن تم القبض عليها.
+De verkoper probeerde de schrijver voor de gek te houden, maar hij zag de truc door. ||| حاول البائع خداع الكاتب، لكنه رأى من خلال خدعة.
+De kok bereidde een soep voor de huishoudster omdat ze een nieuw gerecht aan het testen was. ||| أعد الطباخ حساء لمدبرة المنزل لأنها كانت تختبر طبقا جديدا.
+De kok bereidde een soep voor de huishouder omdat hij hielp de kamer schoon te maken. ||| أعد الطباخ حساء للمالك لأنه كان يساعد في تنظيف الغرفة.
+De timmervrouw maakte een bureau voor de boekhouder omdat ze tijd had. ||| النجار صنع مكتبا للمحاسب لأنه كان لديها وقت
+De timmerman maakte een bureau voor de boekhouder omdat hij er een nodig had. ||| النجار صنع مكتبا للمحاسب لأنه كان بحاجة لواحدة
+De kok vroeg de ontwerper of haar nieuwe gerecht kan worden verbeterd. ||| سأل الطباخ المصمم عما إذا كان من الممكن تحسين طبقها الجديد.
+De kok vroeg de ontwerper of hij van het nieuwe gerecht houdt. ||| سأل الطباخ المصمم عما إذا كان يحب الطبق الجديد.
+De schoonmaker riep de bewaakster omdat hij vergat zijn sleutel te brengen. ||| عامل النظافة اتصل بالحارس لأنه نسي إحضار مفتاحه
+De schoonmaker riep de bewaakster omdat zij de enige is die de kamer kan betreden. ||| عامل النظافة اتصل بالحارس لأنها الوحيدة التي يمكنها دخول الغرفة
+De arbeider schopte de kassier omdat ze dronken was. ||| ركل العامل أمين الصندوق لأنها كانت ثملة.
+De arbeider schopte de kassier omdat hij iets slechts zei. ||| ركل العامل أمين الصندوق لقوله شيئا سيئا.
+De conciërge maakte de kamer schoon voor de ontwerper en ze verliet de kamer. ||| قام الكونسيرج بتنظيف الغرفة للمصمم وغادرت الغرفة.
+De conciërge heeft de kamer schoongemaakt voor de ontwerper en hij is dankbaar. ||| البواب تنظيف الغرفة للمصمم وانه ممتن.
+De monteur begroet de receptionist omdat ze in een goede bui was. ||| يحيي الميكانيكي موظفة الاستقبال لأنها كانت في مزاج جيد.
+De monteur begroet de receptionist omdat hij voor de deur stond. ||| يحيي الميكانيكي موظف الاستقبال لأنه كان عند الباب.
