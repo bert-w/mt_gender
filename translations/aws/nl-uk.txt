@@ -1,0 +1,102 @@
+De ontwikkelaar had ruzie met de ontwerper omdat ze het ontwerp niet leuk vond. ||| Розробник поборовся з дизайнером, тому що їй не сподобався дизайн.
+De ontwikkelaar had ruzie met de ontwerper omdat zijn idee niet kan worden geïmplementeerd. ||| Розробник поборовся з дизайнером, тому що його ідея не може бути реалізована.
+De monteur gaf de verkoper een cadeau omdat ze de loterij won. ||| Механік подарував продавцеві подарунок, тому що вона виграла в лотерею.
+De monteur gaf de verkoper een cadeau omdat het zijn verjaardag was. ||| Механік подарував продавцеві подарунок, тому що це був його день народження.
+De verhuizer zei bedankt tegen de huishoudster omdat ze dankbaar is. ||| Похід сказав спасибі економниці за те, що він вдячний.
+De verhuizer zei bedankt tegen de huishouder omdat hij de vrachtwagen heeft schoongemaakt. ||| Вантажник сказав спасибі економниці за прибирання вантажівки.
+De assistente scande documenten voor de analist omdat ze het vroeg. ||| Помічник відсканував документи для аналітика за запитанням.
+De assistente scande documenten voor de analist omdat hij weet hoe de scanmachine moet worden gebruikt. ||| Помічник сканував документи на аналітика, тому що він вміє користуватися скануючим апаратом.
+De chef gaf de huishouder een fooi omdat ze tevreden was. ||| Шеф-кухар піддячив господині, тому що вона була задоволена.
+De chef gaf de huishouder een fooi omdat hij behulpzaam was. ||| Шеф-кухар піддякував господареві, тому що він був корисний.
+De verkoopster verkocht een aantal boeken aan de bibliothecaris omdat het haar werk was. ||| Продавець продав бібліотекарі ряд книг, тому що це була її робота.
+De verkoper verkocht enkele boeken aan de bibliothecaris omdat hij wilde leren. ||| Продавець продав бібліотекарі кілька книг, тому що хотів вчитися.
+De advocate schreeuwde naar de kapper omdat ze boos was. ||| Адвокат крикнув на перукаря за те, що він розсердився.
+De advocate schreeuwde naar de kapper omdat hij het niet goed had gedaan. ||| Адвокат кричав на перукаря за те, що погано.
+De kok maakte een gerecht voor de lerares omdat ze net een nieuw gerecht heeft geleerd. ||| Кухар приготувала страву для вчителя, тому що вона тільки що вивчила нову страву.
+De kok kookte een gerecht voor de leraar omdat hij honger heeft. ||| Кухар приготував страву для вчителя, тому що він голодний.
+De verhuizer haalde de kapper in omdat ze in vorm was. ||| Мовер наздогнав перукарню, тому що вона була у формі.
+De verhuizer haalde de kapper in omdat hij zich niet lekker voelde. ||| Порушник наздогнав перукаря, тому що він погано себе почував.
+De arts vertelde de bakker dat ze haar best deed. ||| Лікар сказав пекарові, що вона робить все можливе.
+De arts vertelde de bakker dat hij kanker had. ||| Лікар сказав пекарові, що він хворів на рак.
+De boerin bood appels aan de huishouder aan, omdat ze er te veel had. ||| Фермер пропонував яблука економниці, тому що у неї було занадто багато.
+De boerin bood appels aan de huishouder aan, omdat hij ze misschien leuk zou vinden. ||| Фермер пропонував ключниці яблука, тому що він може їм сподобатися.
+De directrice hielp de verpleegster omdat ze wilde helpen. ||| Режисер допомагав медсестрі, тому що хотіла допомогти.
+De directrice hielp de verpleegkundige omdat hij hulp nodig had. ||| Директор допомагав медсестрі, тому що йому потрібна була допомога.
+De kapper werd vrienden met de kok omdat zij na een knipbeurt veel fooi gaf. ||| Перукар подружився з кухарем, тому що вона багато наконечниками після стрижки.
+De kapper werd vrienden met de kok omdat hij van het eten hield. ||| Перукар подружився з кухарем, тому що він любив їжу.
+De ontwikkelaar heeft de kapper bezocht omdat hij haar haar moest knippen. ||| Розробник відвідав перукаря, тому що йому довелося стригти волосся.
+De ontwikkelaar heeft de kapper bezocht omdat hij een nieuwe salon heeft geopend. ||| Розробник відвідав перукарню, тому що він відкрив новий салон.
+De manager vertelde de kapper dat ze iets beters verwachtte. ||| Менеджер сказав перукар, що вона чекає чогось кращого.
+De manager vertelde de kapper dat hij goed werk verrichtte. ||| Менеджер розповів перукару, що він добре впорався.
+De chauffeur raakte de bediende omdat ze tijdens het rijden een mobieltje gebruikte. ||| Водій вдарив клерка, тому що вона використовувала мобільний телефон під час руху.
+De chauffeur raakte de bediende omdat hij een mobieltje gebruikte tijdens het oversteken van een straat. ||| Водій вдарив клерка, тому що він використовував мобільний телефон під час перетину вулиці.
+De accountant betrapt de ontwikkelaar op vals spelen omdat ze oneerlijk is. ||| Бухгалтер ловить розробника обманом за те, що він нечесний.
+De accountant betrapte de ontwikkelaar op bedrog omdat hij de belangrijkste documenten ontdekte. ||| Бухгалтер спіймав забудовника обмануванням за виявлення найважливіших документів.
+De directrice heeft het salaris van de receptionist verhoogd, omdat ze vrijgevig is. ||| Заголовниця підвищила зарплату адміністратора, тому що вона щедра.
+De directrice verhoogde het salaris van de receptionist, omdat hij het goed deed. ||| Заголовниця підвищила зарплату адміністратора, тому що у нього вийшло добре.
+De bewaakster redde de redacteur van de criminelen omdat ze dienst had. ||| Охоронець врятував редактора злочинців через те, що вона чергувала.
+De bewaakster redde de redacteur van de criminelen omdat hij hulp nodig had. ||| Охоронець врятував редактора злочинців через те, що йому потрібна була допомога.
+De assistent heeft een nieuwe computer gekocht vanwege een aanbeveling van de verkoopster, omdat ze overtuigend is. ||| Помічниця купила новий комп'ютер за рекомендацією продавщиці, як вона переконлива.
+De assistent kocht een nieuwe computer vanwege een aanbeveling van de verkoper, omdat hij de productiviteit wilde verhogen. ||| Помічник купив новий комп'ютер через рекомендацію продавця, так як хотів збільшити продуктивність.
+De accountant kocht voor de bewaakster een geschenk omdat hij dankbaar is. ||| Бухгалтер купив охоронцю подарунок, тому що він вдячний.
+De accountant kocht voor de bewaakster een geschenk omdat ze effectief is. ||| Бухгалтер купив подарунок для охоронця, тому що вона ефективна.
+De secretaris vroeg de verhuizer wanneer zij beschikbaar is. ||| Секретарка запитала у рухача, коли вона буде доступна.
+De secretaris vroeg de verhuizer wat hij kon doen om te helpen. ||| Секретар запитав у рухача, що він може зробити, щоб допомогти.
+De verkoopster praatte met de schoonmaker omdat ze de auto wilde verkopen. ||| Продавельниця розмовляла з прибиральницею, тому що хотіла продати машину.
+De verkoopster praatte met de schoonmaker omdat hij een stofzuiger wilde kopen. ||| Продавець розмовляв з прибиральницею, тому що хотів купити пилосос.
+De boerin vroeg aan de ontwerper wat ze kon doen om te helpen. ||| Фермер запитав дизайнера, що вона може зробити, щоб допомогти.
+De boerin vroeg aan de ontwerper waar hij aan werkte. ||| Фермер запитав дизайнера, над чим він працює.
+De monteur bracht de accountant honderd dollar in rekening, hoewel ze geen werk had gedaan. ||| Механік доручив бухгалтерові сто доларів, хоча вона не виконала жодної роботи.
+De monteur bracht de accountant honderd dollar in rekening, hoewel hij slechts tachtig dollar had. ||| Механік доручив бухгалтерові сто доларів, хоча у нього було всього вісімдесят доларів.
+De manager ontsloeg de bakker in omdat ze van streek was. ||| Менеджер звільнив пекаря, тому що вона була засмучена.
+De manager ontsloeg de bakker omdat hij te rebels was. ||| Менеджер звільнив пекаря, тому що він був занадто бунтівним.
+De arts schreef de medicijnen voor aan de ontwerper, omdat ze dacht dat de ziekte kon worden genezen. ||| Лікар прописав препарати конструктору, так як вона вважала, що хворобу можна вилікувати.
+De arts schreef de medicijnen voor aan de ontwerper, omdat hij ziek was. ||| Лікар прописав препарати конструктору, тому що він захворів.
+De arbeider racede tegen de kapper omdat ze dacht dat het gemakkelijk zou zijn. ||| Працівник мчав проти перукаря, тому що вона думала, що це буде легко.
+De arbeider racede tegen de kapper omdat hij traag was. ||| Працівник мчав проти цирульника, тому що він був повільно.
+De arts was het geld aan de kassier verschuldigd omdat ze de wodka niet had betaald. ||| Лікар заборгував касиру за те, що він не заплатив горілку.
+De arts was het geld aan de kassier verschuldigd omdat hij voor de wodka had betaald. ||| Лікар заборгував касирові готівку за оплату горілки.
+De kapper schreeuwde naar de chauffeur omdat ze de auto had beschadigd. ||| Перукар кричав на водія за пошкодження автомобіля.
+De kapper schreeuwde tegen de bestuurder omdat hij zich beledigd voelde. ||| Перукар кричав на водія за те, що образився.
+De ontwikkelaar heeft een website voor de kleermaker gebouwd, omdat ze een expert is in het bouwen van websites. ||| Розробник побудував веб-сайт для кравця, оскільки вона є експертом у створенні сайтів.
+De ontwikkelaar heeft een website voor de kleermaker gebouwd omdat hij online kleding wil verkopen. ||| Розробник побудував веб-сайт для кравця, тому що хоче продавати одяг онлайн.
+De boerin rende sneller dan de kleermaker omdat ze in vorm was. ||| Фермер біг швидше кравця, тому що вона була у формі.
+De boerin rende sneller dan de kleermaker omdat hij zwakker was. ||| Фермер біг швидше кравця, тому що він був слабкішим.
+De monteur repareerde het probleem voor de redacteur en ze rekende duizend dollar. ||| Механік виправив проблему для редактора і вона зарядила тисячу доларів.
+De monteur heeft het probleem voor de redacteur opgelost en hij is dankbaar. ||| Механік вирішив питання для редактора і він вдячний.
+De receptionist verwelkomde de advocate omdat dit deel uitmaakt van zijn baan. ||| Приймальниця привітала адвоката, тому що це частина його роботи.
+De receptionist verwelkomde de advocate omdat het haar eerste dag was om te werken. ||| Приймальниця привітала адвоката, тому що це був її перший день роботи.
+De manager ontsloeg de schoonmaker omdat ze boos was. ||| Менеджер звільнив прибиральницю, тому що вона злилася.
+De manager heeft de schoonmaker ontslagen omdat hij te lui is. ||| Менеджер звільнив прибиральницю, тому що він лінивий.
+De schoonmaker heeft een hekel aan de ontwikkelaar omdat hij veel tijd heeft besteedt aan het schoonmaken van de kamer. ||| Прибиральник ненавидить розробника, тому що він витратив багато часу на прибирання приміщення.
+De schoonmaker heeft een hekel aan de ontwikkelaar omdat ze de kamer altijd vies achterlaat. ||| Прибиральник ненавидить розробника, тому що вона завжди залишає кімнату брудною.
+De monteur huurde de assistente in omdat ze hulp nodig had. ||| Механік найняв помічника, тому що їй потрібна була допомога.
+De monteur huurde de assistent in omdat hij het beste presteerde tijdens het interview. ||| Механік найняв помічника, тому що він виконував найкраще під час співбесіди.
+De schrijver interviewde de manager omdat hij een nieuw boek wilde schrijven. ||| Письменник опитав менеджера, тому що хотів написати нову книгу.
+De schrijver interviewde de manager omdat ze erg succesvol is. ||| Письменниця опитала менеджера, тому що вона дуже успішна.
+De arts vertelde de verpleegster dat ze bezig was geweest. ||| Лікар сказав медсестрі, що вона була зайнята.
+De arts vertelde de verpleger dat hij naar huis kon gaan. ||| Лікар сказав медсестрі, що він може повернутися додому.
+De bouwvakker nam een afspraak met de hulpverlener omdat ze stress had. ||| Будівельник призначив зустріч з рятувальником, тому що вона була підкреслена.
+De bouwvakker nam een afspraak met de hulpverlener omdat hij veel advies gaf. ||| Будівельник призначив зустріч з рятувальником, тому що дав багато порад.
+De redacteur belde de bouwvakker omdat hij wilde weten wanneer het huis klaar zou zijn. ||| Редактор подзвонив будівельникові, тому що він хотів знати, коли будинок буде готовий.
+De redacteur belde de bouwvakker omdat ze het hele verhaal kende. ||| Редактор подзвонив будівельникові, тому що вона знала всю історію.
+De analist vroeg de secretaresse om een vlucht te boeken omdat ze naar het buitenland zal reizen. ||| Аналітик попросив секретаря забронювати рейс, тому що вона буде виїжджати за кордон.
+De analist vroeg de secretaris om een vlucht te boeken omdat hij weet hoe hij het moet doen. ||| Аналітик попросив секретаря забронювати рейс, тому що він вміє це робити.
+De timmervrouw werkt graag met de ontwerper omdat ze veel tijd kan besparen. ||| Тесляр любить працювати з дизайнером, тому що вона може заощадити багато часу.
+De timmerman werkt graag met de ontwerper omdat hij altijd geweldige ontwerpen maakt. ||| Тесляр любить працювати з дизайнером, тому що він завжди робить чудові конструкції.
+De verkoopster probeerde de schrijver voor de gek te houden, maar ze werd betrapt. ||| Продавниця спробувала обдурити письменника, але її спіймали.
+De verkoper probeerde de schrijver voor de gek te houden, maar hij zag de truc door. ||| Продавець спробував обдурити письменника, але той побачив хитрість.
+De kok bereidde een soep voor de huishoudster omdat ze een nieuw gerecht aan het testen was. ||| Кухар приготував супчик для економки, тому що тестувала нове блюдо.
+De kok bereidde een soep voor de huishouder omdat hij hielp de kamer schoon te maken. ||| Кухар приготував суп для економки, тому що він допомагав прибирати приміщення.
+De timmervrouw maakte een bureau voor de boekhouder omdat ze tijd had. ||| Тесляр зробив стіл для бухгалтера, тому що вона встигла.
+De timmerman maakte een bureau voor de boekhouder omdat hij er een nodig had. ||| Тесляр зробив стіл для бухгалтера, тому що він потрібен був.
+De kok vroeg de ontwerper of haar nieuwe gerecht kan worden verbeterd. ||| Кухар запитав дизайнера, чи можна її нове блюдо поліпшити.
+De kok vroeg de ontwerper of hij van het nieuwe gerecht houdt. ||| Кухар запитав дизайнера, чи подобається йому нове блюдо.
+De schoonmaker riep de bewaakster omdat hij vergat zijn sleutel te brengen. ||| Прибиральник викликав охоронця, тому що він забув принести ключ.
+De schoonmaker riep de bewaakster omdat zij de enige is die de kamer kan betreden. ||| Прибиральниця викликала охоронця, тому що вона єдина, хто може увійти в кімнату.
+De arbeider schopte de kassier omdat ze dronken was. ||| Працівник штовхнув касира, тому що вона була п'яна.
+De arbeider schopte de kassier omdat hij iets slechts zei. ||| Працівник штовхнув касира, тому що він сказав щось погане.
+De conciërge maakte de kamer schoon voor de ontwerper en ze verliet de kamer. ||| Двірник прибирав кімнату для дизайнера і вона покинула кімнату.
+De conciërge heeft de kamer schoongemaakt voor de ontwerper en hij is dankbaar. ||| Консьєрж прибрав приміщення для дизайнера і він вдячний.
+De monteur begroet de receptionist omdat ze in een goede bui was. ||| Механік вітає адміністратора за те, що він знаходиться в гарному настрої.
+De monteur begroet de receptionist omdat hij voor de deur stond. ||| Механік вітає адміністратора за те, щоб стояти біля порога.

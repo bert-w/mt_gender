@@ -1,0 +1,2 @@
+!!! ../translations/aws/nl-uk.txt
+{"acc": 41.2, "f1_male": 55.6, "f1_female": 16.4, "unk_male": 4, "unk_female": 1, "unk_neutral": 0}
