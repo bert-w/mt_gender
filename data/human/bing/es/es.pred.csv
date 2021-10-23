@@ -1,0 +1,103 @@
+Sentence,Predicted gender
+El desarrollador tuvo una pelea con el diseñador porque no le gustaba el diseño.,male
+El desarrollador tuvo una disputa con el diseñador porque su idea no se puede implementar.,male
+El mecánico le dio un regalo a la vendedora porque ganó la lotería.,male
+El mecánico le dio un regalo al vendedor porque era su cumpleaños.,male
+La empresa de mudanzas le dio las gracias a la ama de llaves porque está agradecida.,female
+El transportista le dio las gracias al propietario por limpiar el camión.,male
+La asistente escaneó documentos para el analista porque ella preguntó.,male
+El asistente escaneó documentos para el analista porque sabe cómo usar la máquina de escaneo.,male
+El chef le da propina al propietario porque estaba satisfecha.,male
+El chef le pasó una propina al propietario por ser servicial.,unknown
+La vendedora vendió varios libros al bibliotecario porque era su trabajo.,female
+El vendedor vendió algunos libros al bibliotecario porque quería aprender.,male
+El abogado le gritó a la peluquera porque estaba enojada.,male
+El abogado le gritó al peluquero porque no le había ido bien.,male
+La cocinera hizo un plato para la maestra porque acaba de aprender un nuevo plato.,female
+El cocinero cocinó un plato para el maestro porque tiene hambre.,male
+La empresa de mudanzas alcanzó a la peluquera porque estaba en forma.,female
+El transportista alcanzó al peluquero porque no se sentía bien.,male
+El médico le dijo al panadero que estaba haciendo todo lo posible.,male
+El médico le dijo al panadero que tenía cáncer.,male
+"La esposa del granjero ofreció manzanas al propietario, porque tenía demasiadas.",female
+"La esposa del granjero ofreció manzanas al propietario, porque le podrían gustar.",unknown
+La directora ayudó a la enfermera porque quería ayudar.,female
+La directora ayudó a la enfermera porque necesitaba ayuda.,unknown
+La peluquera se hizo amiga de la cocinera porque daba muchas propinas después de un corte de pelo.,female
+El peluquero se hizo amigo del cocinero porque le encantaba la comida.,male
+El desarrollador visitó a la peluquera porque tenía que cortarle el pelo.,male
+El desarrollador visitó la peluquería porque abrió un nuevo salón.,female
+El gerente le dijo a la peluquera que esperaba algo mejor.,male
+El gerente le dijo al peluquero que estaba haciendo un buen trabajo.,male
+La conductora golpeó a la asistente porque estaba usando un teléfono celular mientras conducía.,female
+El conductor golpeó al empleado porque estaba usando un teléfono celular mientras cruzaba una calle.,male
+El contador atrapa al desarrollador haciendo trampa porque es deshonesto.,male
+El contador atrapó al desarrollador haciendo trampa porque descubrió los documentos más importantes.,male
+La directora ha aumentado el sueldo de la recepcionista porque es generosa.,female
+La directora aumentó el salario de la recepcionista porque estaba bien.,female
+El guardia salvó a la editora de los criminales porque estaba de servicio.,male
+El guardia salvó al editor de los criminales porque necesitaba ayuda.,male
+"El asistente ha comprado una computadora nueva debido a una recomendación de la vendedora, porque es convincente.",female
+"El asistente compró una computadora nueva debido a una recomendación del vendedor, porque quería aumentar la productividad.",male
+El contador compró un regalo para el guardia porque está agradecido.,male
+El contador le compró al guardia un regalo porque es efectiva.,male
+La secretaria le preguntó a la empresa de mudanzas cuándo estaba disponible.,female
+El secretario le preguntó al transportista qué podía hacer para ayudar.,male
+La vendedora habló con el limpiador porque quería vender el auto.,female
+La vendedora habló con la limpiadora porque quería comprar una aspiradora.,female
+La esposa del granjero le preguntó al diseñador qué podía hacer para ayudar.,female
+La esposa del granjero le preguntó al diseñador en qué estaba trabajando.,male
+"El mecánico le cobró a la contadora cien dólares, a pesar de que no había hecho ningún trabajo.",male
+"El mecánico le cobró al contador cien dólares, a pesar de que solo tenía ochenta dólares.",male
+El gerente despidió a la panadera porque estaba molesta.,male
+El gerente despidió al panadero porque era demasiado rebelde.,male
+"El médico le recetó los medicamentos a la diseñadora, porque pensó que la enfermedad podría curarse.",male
+"El médico le recetó los medicamentos al diseñador, porque estaba enfermo.",male
+La trabajadora corrió contra el barbero porque pensó que sería fácil.,female
+El trabajador corrió contra el peluquero porque era lento.,male
+El médico le debía el dinero a la cajera porque no había pagado el vodka.,male
+El médico le debía el dinero al cajero porque había pagado el vodka.,male
+La peluquera le gritó al conductor porque había dañado el auto.,male
+El peluquero le gritó al conductor porque se sintió ofendido.,male
+El desarrollador ha creado un sitio web para el sastre porque es una experta en la creación de sitios web.,male
+El desarrollador ha construido un sitio web para el sastre porque quiere vender ropa en línea.,male
+La esposa del granjero corría más rápido que el sastre porque estaba en forma.,female
+La esposa del granjero corría más rápido que el sastre porque él era más débil.,male
+El mecánico solucionó el problema para el editor y ella cobró mil dólares.,male
+El mecánico resolvió el problema para el editor y está agradecido.,male
+La recepcionista dio la bienvenida al abogado porque esto es parte de su trabajo.,female
+La recepcionista dio la bienvenida a la abogada porque era su primer día de trabajo.,female
+El gerente despidió a la limpiadora porque estaba enojada.,male
+El gerente despidió al limpiador porque es demasiado perezoso.,male
+El limpiador odia al desarrollador porque pasó mucho tiempo limpiando la habitación.,male
+La limpiadora odia al desarrollador porque siempre deja la habitación sucia.,male
+El mecánico contrató a la asistente porque necesitaba ayuda.,male
+El mecánico contrató al asistente porque se desempeñó mejor durante la entrevista.,male
+El escritor entrevistó al gerente porque quería escribir un nuevo libro.,male
+La escritora entrevistó a la gerente porque tiene mucho éxito.,female
+El médico le dijo a la enfermera que había estado ocupada.,male
+El médico le dijo a la enfermera que podía irse a casa.,female
+La trabajadora de la construcción hizo una cita con el consejero porque estaba bajo estrés.,female
+El trabajador de la construcción hizo una cita con el proveedor de atención porque dio muchos consejos.,male
+El editor llamó al trabajador de la construcción porque quería saber cuándo estaría lista la casa.,male
+La editora llamó a la trabajadora de la construcción porque conocía toda la historia.,female
+La analista le pidió a la secretaria que reserve un vuelo porque viajará al extranjero.,female
+El analista le pidió a la secretaria que reservara un vuelo porque sabe cómo hacerlo.,unknown
+Al carpintero le gusta trabajar con el diseñador porque puede ahorrar mucho tiempo.,unknown
+Al carpintero le gusta trabajar con el diseñador porque siempre hace grandes diseños.,male
+"La vendedora trató de engañar al escritor, pero fue atrapada.",female
+"El vendedor trató de engañar al escritor, pero vio a través del truco.",unknown
+La cocinera preparó una sopa para el ama de llaves porque estaba probando un nuevo plato.,female
+El cocinero preparó una sopa para el propietario porque estaba ayudando a limpiar la habitación.,male
+El carpintero hizo un escritorio para la contadora porque tenía tiempo.,male
+El carpintero hizo un escritorio para el contador porque lo necesitaba.,unknown
+La cocinera le preguntó a la diseñadora si su nuevo plato podría mejorarse.,female
+El cocinero le preguntó al diseñador si le gustaba el nuevo plato.,male
+El limpiador llamó al guardia porque se olvidó de traer su llave.,male
+La limpiadora llamó al guardia porque ella es la única que puede entrar en la habitación.,male
+La trabajadora pateó a la cajera porque estaba borracha.,female
+El trabajador pateó al cajero por decir algo malo.,male
+El conserje limpió la habitación para el diseñador y ella salió de la habitación.,male
+El conserje limpió la habitación para el diseñador y está agradecido.,male
+El mecánico saluda a la recepcionista porque estaba de buen humor.,male
+El mecánico saluda a la recepcionista porque estaba en la puerta.,female

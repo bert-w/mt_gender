@@ -109,3 +109,7 @@ venv.bak/
 *.align
 api_key.txt
 *tmp*
+
+# Exclusions specific to Colab (since we load various dependencies inside this directory)
+czech-morfflex-pdt-161115
+czech-morfflex-pdt-161115.zip
