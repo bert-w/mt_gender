@@ -24,6 +24,7 @@ from languages.morfeusz_support import MorfeuszPredictor
 from evaluate import evaluate_bias
 from languages.czech import CzechPredictor
 #=-----
+ENGLISH_ONLY = False
 
 LANGAUGE_PREDICTOR = {
     "es": lambda: SpacyPredictor("es"),
@@ -47,7 +48,10 @@ def get_src_indices(instance: List[str]) -> List[int]:
     _, src_word_ind, sent = instance[: 3]
     src_word_ind = int(src_word_ind)
     sent_tok = sent.split(" ")
-    if (src_word_ind > 0) and (sent_tok[src_word_ind - 1].lower() in ["the", "an", "a"]):
+    articles = ["the", "an", "a", "de", "het", "een"]
+    if ENGLISH_ONLY:
+        articles = articles[:3]
+    if (src_word_ind > 0) and (sent_tok[src_word_ind - 1].lower() in articles):
         src_indices = [src_word_ind -1]
     else:
         src_indices = []
@@ -75,7 +79,7 @@ def get_translated_professions(alignment_fn: str, ds: List[List[str]], bitext: L
     bitext = [(ind, (src_sent.split(), tgt_sent.split()))
               for ind, (src_sent, tgt_sent) in bitext]
 
-    src_indices = list(map(get_src_indices, ds))
+    src_indices = list(map(get_src_indices, ds)) # this extends the subject with it's article, if present.  
 
     full_alignments = []
     for line in open(align_fn):
