@@ -1,0 +1,2 @@
+!!! ../translations/google/nl-fr.txt
+{"acc": 52.0, "f1_male": 61.0, "f1_female": 45.9, "unk_male": 9, "unk_female": 3, "unk_neutral": 0}

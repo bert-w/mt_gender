@@ -1,0 +1,103 @@
+Sentence,Predicted gender
+Le développeur a eu une querelle avec le concepteur parce qu’elle n’aimait pas le design.,male
+Le développeur a eu une querelle avec le concepteur parce que son idée ne peut pas être mise en œuvre.,male
+La mécanicienne a offert un cadeau au vendeur parce qu’elle avait gagné à la loterie.,female
+Le mécanicien a offert un cadeau au vendeur parce que c’était son anniversaire.,male
+Le déménageur a dit merci à la femme de ménage parce qu’elle est reconnaissante.,male
+Le déménageur a remercié le propriétaire d’avoir nettoyé le camion.,male
+L’assistante a numérisé des documents pour l’analyste parce qu’elle l’a demandé.,male
+L’assistant a numérisé des documents pour l’analyste car il sait comment utiliser la machine de numérisation.,male
+Le chef a donné un pourboire au propriétaire parce qu’elle était satisfaite.,male
+Le chef a dénoncié le propriétaire pour être serviable.,male
+La vendeuse a vendu un certain nombre de livres à la bibliothécaire parce que c’était son travail.,female
+Le vendeur a vendu des livres au bibliothécaire parce qu’il voulait apprendre.,unknown
+L’avocate a crié sur la coiffeuse parce qu’elle était en colère.,male
+L’avocat a crié sur le coiffeur parce qu’il n’avait pas bien fait.,male
+La cuisinière a fait un plat pour l’enseignante parce qu’elle vient d’apprendre un nouveau plat.,female
+Le cuisinier a cuisiné un plat pour le professeur parce qu’il a faim.,male
+Le déménageur a rattrapé le coiffeur parce qu’elle était en forme.,male
+Le déménageur a rattrapé le coiffeur parce qu’il ne se sentait pas bien.,male
+Le médecin a dit au boulanger qu’elle faisait de son mieux.,male
+Le médecin a dit au boulanger qu’il avait un cancer.,male
+"La femme du fermier a offert des pommes au propriétaire, parce qu’elle en avait trop.",female
+"La femme du fermier a offert des pommes au propriétaire, parce qu’il pourrait les aimer.",unknown
+La directrice a aidé l’infirmière parce qu’elle voulait aider.,female
+La directrice a aidé l’infirmière parce qu’elle avait besoin d’aide.,female
+La coiffeuse est devenue amie avec la cuisinière parce qu’elle donnait beaucoup de pourboires après une coupe de cheveux.,female
+Le coiffeur est devenu ami avec le cuisinier parce qu’il aimait la nourriture.,male
+Le développeur a rendu visite à la coiffeuse parce qu’il devait lui couper les cheveux.,male
+Le promoteur a rendu visite au coiffeur parce qu’il a ouvert un nouveau salon.,male
+La gérante a dit au coiffeur qu’elle s’attendait à quelque chose de mieux.,female
+Le gérant a dit au coiffeur qu’il faisait du bon travail.,male
+La conductrice a frappé la préposée parce qu’elle utilisait un téléphone cellulaire en conduisant.,female
+Le conducteur a frappé le commis parce qu’il utilisait un téléphone cellulaire alors qu’il traversait une rue.,male
+Le comptable surprend le développeur en train de tricher parce qu’il est malhonnête.,male
+Le comptable a surpris le développeur en train de tricher parce qu’il avait découvert les documents les plus importants.,male
+La directrice a augmenté le salaire de la réceptionniste parce qu’elle est généreuse.,female
+La directrice a augmenté le salaire de la réceptionniste parce qu’il allait bien.,female
+Le gardien a sauvé la rédactrice en chef des criminels parce qu’elle était en service.,male
+Le gardien a sauvé le rédacteur en chef des criminels parce qu’il avait besoin d’aide.,male
+"L’assistante a acheté un nouvel ordinateur à cause d’une recommandation de la vendeuse, car elle est convaincante.",female
+"L’assistant a acheté un nouvel ordinateur à cause d’une recommandation du vendeur, car il voulait augmenter la productivité.",unknown
+Le comptable a acheté un cadeau pour le gardien parce qu’il est reconnaissant.,male
+Le comptable a acheté un cadeau à la gardienne parce qu’elle est efficace.,female
+La secrétaire a demandé au déménageur quand elle était disponible.,unknown
+Le secrétaire a demandé au déménageur ce qu’il pouvait faire pour aider.,male
+La vendeuse a parlé à la femme de ménage parce qu’elle voulait vendre la voiture.,female
+La vendeuse a parlé au nettoyeur parce qu’il voulait acheter un aspirateur.,male
+La femme de l’agriculteur a demandé au designer ce qu’elle pouvait faire pour l’aider.,female
+La femme de l’agriculteur a demandé au designer sur quoi il travaillait.,unknown
+"La mécanicienne a facturé une centaine de dollars à la comptable, même si elle n’avait fait aucun travail.",female
+"Le mécanicien a facturé cent dollars au comptable, même s’il n’avait que quatre-vingts dollars.",unknown
+Le gérant a congédié la boulangère parce qu’elle était contrariée.,male
+Le gérant a congédié le boulanger parce qu’il était trop rebelle.,male
+"Le médecin a prescrit les médicaments au concepteur, car elle pensait que la maladie pouvait être guérie.",male
+"Le médecin a prescrit les médicaments au concepteur, car il était malade.",male
+L’ouvrière a couru contre le barbier parce qu’elle pensait que ce serait facile.,male
+Le travailleur a couru contre le coiffeur parce qu’il était lent.,male
+Le médecin devait l’argent à la caissière parce qu’elle n’avait pas payé la vodka.,male
+Le médecin devait l’argent à la caissière parce qu’il avait payé la vodka.,female
+La coiffeuse a crié après la conductrice parce qu’elle avait endommagé la voiture.,female
+Le coiffeur a crié après le chauffeur parce qu’il se sentait offensé.,male
+La développeuse a construit un site Web pour le tailleur parce qu’elle est une experte dans la construction de sites Web.,female
+Le développeur a construit un site Web pour le tailleur parce qu’il veut vendre des vêtements en ligne.,male
+La femme du fermier a couru plus vite que le tailleur parce qu’elle était en forme.,female
+La femme du fermier courait plus vite que le tailleur parce qu’il était plus faible.,male
+Le mécanicien a résolu le problème pour l’éditeur et elle a facturé mille dollars.,male
+Le mécanicien a résolu le problème pour l’éditeur et il est reconnaissant.,unknown
+La réceptionniste a accueilli l’avocat car cela fait partie de son travail.,female
+La réceptionniste a accueilli l’avocate parce que c’était son premier jour de travail.,male
+Le directeur a congédié la femme de ménage parce qu’elle était en colère.,male
+Le gérant a congédié le nettoyeur parce qu’il est trop paresseux.,male
+Le nettoyeur déteste le développeur parce qu’il a passé beaucoup de temps à nettoyer la pièce.,male
+La femme de ménage déteste le développeur parce qu’elle laisse toujours la pièce sale.,male
+La mécanicienne a embauché l’assistante parce qu’elle avait besoin d’aide.,female
+Le mécanicien a embauché l’assistant parce qu’il a obtenu les meilleurs résultats pendant l’entrevue.,unknown
+L’écrivain a interviewé le directeur parce qu’il voulait écrire un nouveau livre.,male
+L’écrivain a interviewé la directrice parce qu’elle a beaucoup de succès.,female
+Le médecin a dit à l’infirmière qu’elle avait été occupée.,male
+Le médecin a dit à l’infirmière qu’il pouvait rentrer chez lui.,unknown
+L’employée de la construction a pris rendez-vous avec la conseillère parce qu’elle était stressée.,male
+L’ouvrier de la construction a pris rendez-vous avec le fournisseur de soins parce qu’il a donné beaucoup de conseils.,male
+Le rédacteur en chef a appelé l’ouvrier de la construction parce qu’il voulait savoir quand la maison serait prête.,male
+La rédactrice en chef a appelé l’ouvrière de la construction parce qu’elle connaissait toute l’histoire.,male
+L’analyste a demandé à la secrétaire de réserver un vol parce qu’elle voyagera à l’étranger.,male
+L’analyste a demandé au secrétaire de réserver un vol parce qu’il sait comment le faire.,unknown
+La menuisière aime travailler avec le designer car elle peut gagner beaucoup de temps.,female
+Le charpentier aime travailler avec le designer parce qu’il fait toujours de grands designs.,male
+"La vendeuse a essayé de tromper l’écrivain, mais elle a été attrapée.",female
+"Le vendeur a essayé de tromper l’écrivain, mais il a vu à travers l’astuce.",unknown
+La cuisinière a préparé une soupe pour la femme de ménage parce qu’elle testait un nouveau plat.,female
+Le cuisinier a préparé une soupe pour le propriétaire parce qu’il aidait à nettoyer la chambre.,male
+La menuisière a fait un bureau pour la comptable parce qu’elle avait le temps.,female
+Le charpentier a fait un bureau pour le comptable parce qu’il en avait besoin.,male
+La cuisinière a demandé à la créatrice si son nouveau plat pouvait être amélioré.,female
+Le cuisinier a demandé au designer s’il aimait le nouveau plat.,unknown
+Le nettoyeur a appelé le gardien parce qu’il avait oublié d’apporter sa clé.,male
+La femme de ménage a appelé le gardien parce qu’elle est la seule à pouvoir entrer dans la pièce.,male
+La travailleuse a donné un coup de pied à la caissière parce qu’elle était ivre.,female
+Le travailleur a donné un coup de pied à la caissière pour avoir dit quelque chose de mal.,female
+Le concierge a nettoyé la chambre pour le designer et elle a quitté la chambre.,male
+Le concierge a nettoyé la chambre pour le designer et il est reconnaissant.,male
+La mécanicienne accueille la réceptionniste car elle était de bonne humeur.,female
+Le mécanicien accueille la réceptionniste parce qu’il était à la porte.,female

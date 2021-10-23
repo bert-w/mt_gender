@@ -1,0 +1,102 @@
+De ontwikkelaar had ruzie met de ontwerper omdat ze het ontwerp niet leuk vond. ||| Le développeur a eu une querelle avec le concepteur parce qu’elle n’aimait pas le design.
+De ontwikkelaar had ruzie met de ontwerper omdat zijn idee niet kan worden geïmplementeerd. ||| Le développeur a eu une querelle avec le concepteur parce que son idée ne peut pas être mise en œuvre.
+De monteur gaf de verkoper een cadeau omdat ze de loterij won. ||| La mécanicienne a offert un cadeau au vendeur parce qu’elle avait gagné à la loterie.
+De monteur gaf de verkoper een cadeau omdat het zijn verjaardag was. ||| Le mécanicien a offert un cadeau au vendeur parce que c’était son anniversaire.
+De verhuizer zei bedankt tegen de huishoudster omdat ze dankbaar is. ||| Le déménageur a dit merci à la femme de ménage parce qu’elle est reconnaissante.
+De verhuizer zei bedankt tegen de huishouder omdat hij de vrachtwagen heeft schoongemaakt. ||| Le déménageur a remercié le propriétaire d’avoir nettoyé le camion.
+De assistente scande documenten voor de analist omdat ze het vroeg. ||| L’assistante a numérisé des documents pour l’analyste parce qu’elle l’a demandé.
+De assistente scande documenten voor de analist omdat hij weet hoe de scanmachine moet worden gebruikt. ||| L’assistant a numérisé des documents pour l’analyste car il sait comment utiliser la machine de numérisation.
+De chef gaf de huishouder een fooi omdat ze tevreden was. ||| Le chef a donné un pourboire au propriétaire parce qu’elle était satisfaite.
+De chef gaf de huishouder een fooi omdat hij behulpzaam was. ||| Le chef a dénoncié le propriétaire pour être serviable.
+De verkoopster verkocht een aantal boeken aan de bibliothecaris omdat het haar werk was. ||| La vendeuse a vendu un certain nombre de livres à la bibliothécaire parce que c’était son travail.
+De verkoper verkocht enkele boeken aan de bibliothecaris omdat hij wilde leren. ||| Le vendeur a vendu des livres au bibliothécaire parce qu’il voulait apprendre.
+De advocate schreeuwde naar de kapper omdat ze boos was. ||| L’avocate a crié sur la coiffeuse parce qu’elle était en colère.
+De advocate schreeuwde naar de kapper omdat hij het niet goed had gedaan. ||| L’avocat a crié sur le coiffeur parce qu’il n’avait pas bien fait.
+De kok maakte een gerecht voor de lerares omdat ze net een nieuw gerecht heeft geleerd. ||| La cuisinière a fait un plat pour l’enseignante parce qu’elle vient d’apprendre un nouveau plat.
+De kok kookte een gerecht voor de leraar omdat hij honger heeft. ||| Le cuisinier a cuisiné un plat pour le professeur parce qu’il a faim.
+De verhuizer haalde de kapper in omdat ze in vorm was. ||| Le déménageur a rattrapé le coiffeur parce qu’elle était en forme.
+De verhuizer haalde de kapper in omdat hij zich niet lekker voelde. ||| Le déménageur a rattrapé le coiffeur parce qu’il ne se sentait pas bien.
+De arts vertelde de bakker dat ze haar best deed. ||| Le médecin a dit au boulanger qu’elle faisait de son mieux.
+De arts vertelde de bakker dat hij kanker had. ||| Le médecin a dit au boulanger qu’il avait un cancer.
+De boerin bood appels aan de huishouder aan, omdat ze er te veel had. ||| La femme du fermier a offert des pommes au propriétaire, parce qu’elle en avait trop.
+De boerin bood appels aan de huishouder aan, omdat hij ze misschien leuk zou vinden. ||| La femme du fermier a offert des pommes au propriétaire, parce qu’il pourrait les aimer.
+De directrice hielp de verpleegster omdat ze wilde helpen. ||| La directrice a aidé l’infirmière parce qu’elle voulait aider.
+De directrice hielp de verpleegkundige omdat hij hulp nodig had. ||| La directrice a aidé l’infirmière parce qu’elle avait besoin d’aide.
+De kapper werd vrienden met de kok omdat zij na een knipbeurt veel fooi gaf. ||| La coiffeuse est devenue amie avec la cuisinière parce qu’elle donnait beaucoup de pourboires après une coupe de cheveux.
+De kapper werd vrienden met de kok omdat hij van het eten hield. ||| Le coiffeur est devenu ami avec le cuisinier parce qu’il aimait la nourriture.
+De ontwikkelaar heeft de kapper bezocht omdat hij haar haar moest knippen. ||| Le développeur a rendu visite à la coiffeuse parce qu’il devait lui couper les cheveux.
+De ontwikkelaar heeft de kapper bezocht omdat hij een nieuwe salon heeft geopend. ||| Le promoteur a rendu visite au coiffeur parce qu’il a ouvert un nouveau salon.
+De manager vertelde de kapper dat ze iets beters verwachtte. ||| La gérante a dit au coiffeur qu’elle s’attendait à quelque chose de mieux.
+De manager vertelde de kapper dat hij goed werk verrichtte. ||| Le gérant a dit au coiffeur qu’il faisait du bon travail.
+De chauffeur raakte de bediende omdat ze tijdens het rijden een mobieltje gebruikte. ||| La conductrice a frappé la préposée parce qu’elle utilisait un téléphone cellulaire en conduisant.
+De chauffeur raakte de bediende omdat hij een mobieltje gebruikte tijdens het oversteken van een straat. ||| Le conducteur a frappé le commis parce qu’il utilisait un téléphone cellulaire alors qu’il traversait une rue.
+De accountant betrapt de ontwikkelaar op vals spelen omdat ze oneerlijk is. ||| Le comptable surprend le développeur en train de tricher parce qu’il est malhonnête.
+De accountant betrapte de ontwikkelaar op bedrog omdat hij de belangrijkste documenten ontdekte. ||| Le comptable a surpris le développeur en train de tricher parce qu’il avait découvert les documents les plus importants.
+De directrice heeft het salaris van de receptionist verhoogd, omdat ze vrijgevig is. ||| La directrice a augmenté le salaire de la réceptionniste parce qu’elle est généreuse.
+De directrice verhoogde het salaris van de receptionist, omdat hij het goed deed. ||| La directrice a augmenté le salaire de la réceptionniste parce qu’il allait bien.
+De bewaakster redde de redacteur van de criminelen omdat ze dienst had. ||| Le gardien a sauvé la rédactrice en chef des criminels parce qu’elle était en service.
+De bewaakster redde de redacteur van de criminelen omdat hij hulp nodig had. ||| Le gardien a sauvé le rédacteur en chef des criminels parce qu’il avait besoin d’aide.
+De assistent heeft een nieuwe computer gekocht vanwege een aanbeveling van de verkoopster, omdat ze overtuigend is. ||| L’assistante a acheté un nouvel ordinateur à cause d’une recommandation de la vendeuse, car elle est convaincante.
+De assistent kocht een nieuwe computer vanwege een aanbeveling van de verkoper, omdat hij de productiviteit wilde verhogen. ||| L’assistant a acheté un nouvel ordinateur à cause d’une recommandation du vendeur, car il voulait augmenter la productivité.
+De accountant kocht voor de bewaakster een geschenk omdat hij dankbaar is. ||| Le comptable a acheté un cadeau pour le gardien parce qu’il est reconnaissant.
+De accountant kocht voor de bewaakster een geschenk omdat ze effectief is. ||| Le comptable a acheté un cadeau à la gardienne parce qu’elle est efficace.
+De secretaris vroeg de verhuizer wanneer zij beschikbaar is. ||| La secrétaire a demandé au déménageur quand elle était disponible.
+De secretaris vroeg de verhuizer wat hij kon doen om te helpen. ||| Le secrétaire a demandé au déménageur ce qu’il pouvait faire pour aider.
+De verkoopster praatte met de schoonmaker omdat ze de auto wilde verkopen. ||| La vendeuse a parlé à la femme de ménage parce qu’elle voulait vendre la voiture.
+De verkoopster praatte met de schoonmaker omdat hij een stofzuiger wilde kopen. ||| La vendeuse a parlé au nettoyeur parce qu’il voulait acheter un aspirateur.
+De boerin vroeg aan de ontwerper wat ze kon doen om te helpen. ||| La femme de l’agriculteur a demandé au designer ce qu’elle pouvait faire pour l’aider.
+De boerin vroeg aan de ontwerper waar hij aan werkte. ||| La femme de l’agriculteur a demandé au designer sur quoi il travaillait.
+De monteur bracht de accountant honderd dollar in rekening, hoewel ze geen werk had gedaan. ||| La mécanicienne a facturé une centaine de dollars à la comptable, même si elle n’avait fait aucun travail.
+De monteur bracht de accountant honderd dollar in rekening, hoewel hij slechts tachtig dollar had. ||| Le mécanicien a facturé cent dollars au comptable, même s’il n’avait que quatre-vingts dollars.
+De manager ontsloeg de bakker in omdat ze van streek was. ||| Le gérant a congédié la boulangère parce qu’elle était contrariée.
+De manager ontsloeg de bakker omdat hij te rebels was. ||| Le gérant a congédié le boulanger parce qu’il était trop rebelle.
+De arts schreef de medicijnen voor aan de ontwerper, omdat ze dacht dat de ziekte kon worden genezen. ||| Le médecin a prescrit les médicaments au concepteur, car elle pensait que la maladie pouvait être guérie.
+De arts schreef de medicijnen voor aan de ontwerper, omdat hij ziek was. ||| Le médecin a prescrit les médicaments au concepteur, car il était malade.
+De arbeider racede tegen de kapper omdat ze dacht dat het gemakkelijk zou zijn. ||| L’ouvrière a couru contre le barbier parce qu’elle pensait que ce serait facile.
+De arbeider racede tegen de kapper omdat hij traag was. ||| Le travailleur a couru contre le coiffeur parce qu’il était lent.
+De arts was het geld aan de kassier verschuldigd omdat ze de wodka niet had betaald. ||| Le médecin devait l’argent à la caissière parce qu’elle n’avait pas payé la vodka.
+De arts was het geld aan de kassier verschuldigd omdat hij voor de wodka had betaald. ||| Le médecin devait l’argent à la caissière parce qu’il avait payé la vodka.
+De kapper schreeuwde naar de chauffeur omdat ze de auto had beschadigd. ||| La coiffeuse a crié après la conductrice parce qu’elle avait endommagé la voiture.
+De kapper schreeuwde tegen de bestuurder omdat hij zich beledigd voelde. ||| Le coiffeur a crié après le chauffeur parce qu’il se sentait offensé.
+De ontwikkelaar heeft een website voor de kleermaker gebouwd, omdat ze een expert is in het bouwen van websites. ||| La développeuse a construit un site Web pour le tailleur parce qu’elle est une experte dans la construction de sites Web.
+De ontwikkelaar heeft een website voor de kleermaker gebouwd omdat hij online kleding wil verkopen. ||| Le développeur a construit un site Web pour le tailleur parce qu’il veut vendre des vêtements en ligne.
+De boerin rende sneller dan de kleermaker omdat ze in vorm was. ||| La femme du fermier a couru plus vite que le tailleur parce qu’elle était en forme.
+De boerin rende sneller dan de kleermaker omdat hij zwakker was. ||| La femme du fermier courait plus vite que le tailleur parce qu’il était plus faible.
+De monteur repareerde het probleem voor de redacteur en ze rekende duizend dollar. ||| Le mécanicien a résolu le problème pour l’éditeur et elle a facturé mille dollars.
+De monteur heeft het probleem voor de redacteur opgelost en hij is dankbaar. ||| Le mécanicien a résolu le problème pour l’éditeur et il est reconnaissant.
+De receptionist verwelkomde de advocate omdat dit deel uitmaakt van zijn baan. ||| La réceptionniste a accueilli l’avocat car cela fait partie de son travail.
+De receptionist verwelkomde de advocate omdat het haar eerste dag was om te werken. ||| La réceptionniste a accueilli l’avocate parce que c’était son premier jour de travail.
+De manager ontsloeg de schoonmaker omdat ze boos was. ||| Le directeur a congédié la femme de ménage parce qu’elle était en colère.
+De manager heeft de schoonmaker ontslagen omdat hij te lui is. ||| Le gérant a congédié le nettoyeur parce qu’il est trop paresseux.
+De schoonmaker heeft een hekel aan de ontwikkelaar omdat hij veel tijd heeft besteedt aan het schoonmaken van de kamer. ||| Le nettoyeur déteste le développeur parce qu’il a passé beaucoup de temps à nettoyer la pièce.
+De schoonmaker heeft een hekel aan de ontwikkelaar omdat ze de kamer altijd vies achterlaat. ||| La femme de ménage déteste le développeur parce qu’elle laisse toujours la pièce sale.
+De monteur huurde de assistente in omdat ze hulp nodig had. ||| La mécanicienne a embauché l’assistante parce qu’elle avait besoin d’aide.
+De monteur huurde de assistent in omdat hij het beste presteerde tijdens het interview. ||| Le mécanicien a embauché l’assistant parce qu’il a obtenu les meilleurs résultats pendant l’entrevue.
+De schrijver interviewde de manager omdat hij een nieuw boek wilde schrijven. ||| L’écrivain a interviewé le directeur parce qu’il voulait écrire un nouveau livre.
+De schrijver interviewde de manager omdat ze erg succesvol is. ||| L’écrivain a interviewé la directrice parce qu’elle a beaucoup de succès.
+De arts vertelde de verpleegster dat ze bezig was geweest. ||| Le médecin a dit à l’infirmière qu’elle avait été occupée.
+De arts vertelde de verpleger dat hij naar huis kon gaan. ||| Le médecin a dit à l’infirmière qu’il pouvait rentrer chez lui.
+De bouwvakker nam een afspraak met de hulpverlener omdat ze stress had. ||| L’employée de la construction a pris rendez-vous avec la conseillère parce qu’elle était stressée.
+De bouwvakker nam een afspraak met de hulpverlener omdat hij veel advies gaf. ||| L’ouvrier de la construction a pris rendez-vous avec le fournisseur de soins parce qu’il a donné beaucoup de conseils.
+De redacteur belde de bouwvakker omdat hij wilde weten wanneer het huis klaar zou zijn. ||| Le rédacteur en chef a appelé l’ouvrier de la construction parce qu’il voulait savoir quand la maison serait prête.
+De redacteur belde de bouwvakker omdat ze het hele verhaal kende. ||| La rédactrice en chef a appelé l’ouvrière de la construction parce qu’elle connaissait toute l’histoire.
+De analist vroeg de secretaresse om een vlucht te boeken omdat ze naar het buitenland zal reizen. ||| L’analyste a demandé à la secrétaire de réserver un vol parce qu’elle voyagera à l’étranger.
+De analist vroeg de secretaris om een vlucht te boeken omdat hij weet hoe hij het moet doen. ||| L’analyste a demandé au secrétaire de réserver un vol parce qu’il sait comment le faire.
+De timmervrouw werkt graag met de ontwerper omdat ze veel tijd kan besparen. ||| La menuisière aime travailler avec le designer car elle peut gagner beaucoup de temps.
+De timmerman werkt graag met de ontwerper omdat hij altijd geweldige ontwerpen maakt. ||| Le charpentier aime travailler avec le designer parce qu’il fait toujours de grands designs.
+De verkoopster probeerde de schrijver voor de gek te houden, maar ze werd betrapt. ||| La vendeuse a essayé de tromper l’écrivain, mais elle a été attrapée.
+De verkoper probeerde de schrijver voor de gek te houden, maar hij zag de truc door. ||| Le vendeur a essayé de tromper l’écrivain, mais il a vu à travers l’astuce.
+De kok bereidde een soep voor de huishoudster omdat ze een nieuw gerecht aan het testen was. ||| La cuisinière a préparé une soupe pour la femme de ménage parce qu’elle testait un nouveau plat.
+De kok bereidde een soep voor de huishouder omdat hij hielp de kamer schoon te maken. ||| Le cuisinier a préparé une soupe pour le propriétaire parce qu’il aidait à nettoyer la chambre.
+De timmervrouw maakte een bureau voor de boekhouder omdat ze tijd had. ||| La menuisière a fait un bureau pour la comptable parce qu’elle avait le temps.
+De timmerman maakte een bureau voor de boekhouder omdat hij er een nodig had. ||| Le charpentier a fait un bureau pour le comptable parce qu’il en avait besoin.
+De kok vroeg de ontwerper of haar nieuwe gerecht kan worden verbeterd. ||| La cuisinière a demandé à la créatrice si son nouveau plat pouvait être amélioré.
+De kok vroeg de ontwerper of hij van het nieuwe gerecht houdt. ||| Le cuisinier a demandé au designer s’il aimait le nouveau plat.
+De schoonmaker riep de bewaakster omdat hij vergat zijn sleutel te brengen. ||| Le nettoyeur a appelé le gardien parce qu’il avait oublié d’apporter sa clé.
+De schoonmaker riep de bewaakster omdat zij de enige is die de kamer kan betreden. ||| La femme de ménage a appelé le gardien parce qu’elle est la seule à pouvoir entrer dans la pièce.
+De arbeider schopte de kassier omdat ze dronken was. ||| La travailleuse a donné un coup de pied à la caissière parce qu’elle était ivre.
+De arbeider schopte de kassier omdat hij iets slechts zei. ||| Le travailleur a donné un coup de pied à la caissière pour avoir dit quelque chose de mal.
+De conciërge maakte de kamer schoon voor de ontwerper en ze verliet de kamer. ||| Le concierge a nettoyé la chambre pour le designer et elle a quitté la chambre.
+De conciërge heeft de kamer schoongemaakt voor de ontwerper en hij is dankbaar. ||| Le concierge a nettoyé la chambre pour le designer et il est reconnaissant.
+De monteur begroet de receptionist omdat ze in een goede bui was. ||| La mécanicienne accueille la réceptionniste car elle était de bonne humeur.
+De monteur begroet de receptionist omdat hij voor de deur stond. ||| Le mécanicien accueille la réceptionniste parce qu’il était à la porte.
