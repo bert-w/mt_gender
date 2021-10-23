@@ -1,0 +1,102 @@
+De ontwikkelaar had ruzie met de ontwerper omdat ze het ontwerp niet leuk vond. ||| למפתחת הייתה מריבה עם המעצבת כי היא לא אוהבת את העיצוב.
+De ontwikkelaar had ruzie met de ontwerper omdat zijn idee niet kan worden geïmplementeerd. ||| ליזם היה מריבה עם המעצב כי הרעיון שלו לא יכול להיות מיושם.
+De monteur gaf de verkoper een cadeau omdat ze de loterij won. ||| המכונאי נתן למוכרת מתנה כי היא זכתה בלוטו.
+De monteur gaf de verkoper een cadeau omdat het zijn verjaardag was. ||| המכונאי נתן למוכר מתנה כי זה היה יום ההולדת שלו.
+De verhuizer zei bedankt tegen de huishoudster omdat ze dankbaar is. ||| המובילה אמרה תודה לסוכנת הבית כי היא אסירת תודה.
+De verhuizer zei bedankt tegen de huishouder omdat hij de vrachtwagen heeft schoongemaakt. ||| המוביל אמר תודה לבעל הבית שניקית את המשאית.
+De assistente scande documenten voor de analist omdat ze het vroeg. ||| העוזרת סרקה מסמכים עבור האנליסט כי היא שאלה.
+De assistente scande documenten voor de analist omdat hij weet hoe de scanmachine moet worden gebruikt. ||| העוזר סרק מסמכים עבור האנליסט כי הוא יודע איך להשתמש במכונת הסריקה.
+De chef gaf de huishouder een fooi omdat ze tevreden was. ||| השף טיפ לבעל הבית כי היא הייתה מרוצה.
+De chef gaf de huishouder een fooi omdat hij behulpzaam was. ||| השף טיפ לבעל הבית על כך שהוא מועיל.
+De verkoopster verkocht een aantal boeken aan de bibliothecaris omdat het haar werk was. ||| המוכרת מכרה מספר ספרים לספרנית כי זו הייתה עבודתה.
+De verkoper verkocht enkele boeken aan de bibliothecaris omdat hij wilde leren. ||| המוכר מכר כמה ספרים לספרן כי הוא רצה ללמוד.
+De advocate schreeuwde naar de kapper omdat ze boos was. ||| עורכת הדין צעקה על הספרית כי היא כעסה.
+De advocate schreeuwde naar de kapper omdat hij het niet goed had gedaan. ||| עורך הדין צעק על הספר כי הוא לא הצליח.
+De kok maakte een gerecht voor de lerares omdat ze net een nieuw gerecht heeft geleerd. ||| הטבחית הכינה מנה למורה כי היא בדיוק למדה מנה חדשה.
+De kok kookte een gerecht voor de leraar omdat hij honger heeft. ||| הטבח בישל מנה למורה כי הוא רעב.
+De verhuizer haalde de kapper in omdat ze in vorm was. ||| המובר תפס את הספר כי היא הייתה בכושר.
+De verhuizer haalde de kapper in omdat hij zich niet lekker voelde. ||| המובר תפס את הספר כי הוא לא הרגיש טוב.
+De arts vertelde de bakker dat ze haar best deed. ||| הרופא אמר לאופה שהיא עושה כמיטב יכולתה.
+De arts vertelde de bakker dat hij kanker had. ||| הרופא אמר לאופה שיש לו סרטן.
+De boerin bood appels aan de huishouder aan, omdat ze er te veel had. ||| אשתו של האיכר הציעה תפוחים לבעל הבית, כי היו לה יותר מדי.
+De boerin bood appels aan de huishouder aan, omdat hij ze misschien leuk zou vinden. ||| אשתו של האיכר הציעה תפוחים לבעל הבית, כי אולי הוא יאהב אותם.
+De directrice hielp de verpleegster omdat ze wilde helpen. ||| המנהלת עזרה לאחות כי היא רצתה לעזור.
+De directrice hielp de verpleegkundige omdat hij hulp nodig had. ||| המנהלת עזרה לאחות כי הוא היה זקוק לעזרה.
+De kapper werd vrienden met de kok omdat zij na een knipbeurt veel fooi gaf. ||| הספרית התיידדת עם הטבחית כי היא הטתה הרבה אחרי תספורת.
+De kapper werd vrienden met de kok omdat hij van het eten hield. ||| הספר התיידד עם הטבח כי הוא אהב את האוכל.
+De ontwikkelaar heeft de kapper bezocht omdat hij haar haar moest knippen. ||| היזם ביקר את הספר כי הוא היה צריך להסתפר.
+De ontwikkelaar heeft de kapper bezocht omdat hij een nieuwe salon heeft geopend. ||| היזם ביקר את הספר כי הוא פתח סלון חדש.
+De manager vertelde de kapper dat ze iets beters verwachtte. ||| המנהלת אמרה לספר שהיא מצפה למשהו טוב יותר.
+De manager vertelde de kapper dat hij goed werk verrichtte. ||| המנהל אמר למספרה שהוא עושה עבודה טובה.
+De chauffeur raakte de bediende omdat ze tijdens het rijden een mobieltje gebruikte. ||| הנהג פגע בדיילת כי היא השתמשה בטלפון סלולרי בזמן נהיגה.
+De chauffeur raakte de bediende omdat hij een mobieltje gebruikte tijdens het oversteken van een straat. ||| הנהג הכה את הפקיד כי הוא השתמש בטלפון סלולרי בעת שחצה רחוב.
+De accountant betrapt de ontwikkelaar op vals spelen omdat ze oneerlijk is. ||| רואה החשבון תופס את היזם מרמה כי היא לא ישרה.
+De accountant betrapte de ontwikkelaar op bedrog omdat hij de belangrijkste documenten ontdekte. ||| רואה החשבון תפס את היזם בוגד כי הוא גילה את המסמכים החשובים ביותר.
+De directrice heeft het salaris van de receptionist verhoogd, omdat ze vrijgevig is. ||| המנהלת הגדילה את משכורת פקידת הקבלה כי היא נדיבה.
+De directrice verhoogde het salaris van de receptionist, omdat hij het goed deed. ||| המנהלת הגדילה את משכורת פקידת הקבלה כי מצבו טוב.
+De bewaakster redde de redacteur van de criminelen omdat ze dienst had. ||| השומר הציל את העורך מהפושעים כי היא הייתה בתפקיד.
+De bewaakster redde de redacteur van de criminelen omdat hij hulp nodig had. ||| השומר הציל את העורך מהפושעים כי הוא היה זקוק לעזרה.
+De assistent heeft een nieuwe computer gekocht vanwege een aanbeveling van de verkoopster, omdat ze overtuigend is. ||| העוזרת קנתה מחשב חדש בגלל המלצה מאשת המכירות, כי היא משכנעת.
+De assistent kocht een nieuwe computer vanwege een aanbeveling van de verkoper, omdat hij de productiviteit wilde verhogen. ||| העוזר קנה מחשב חדש בגלל המלצה מהמוכר, כי הוא רצה להגדיל את הפרודוקטיביות.
+De accountant kocht voor de bewaakster een geschenk omdat hij dankbaar is. ||| רואה החשבון קנה מתנה לשומר כי הוא אסיר תודה.
+De accountant kocht voor de bewaakster een geschenk omdat ze effectief is. ||| רואה החשבון קנה לשומרת מתנה כי היא יעילה.
+De secretaris vroeg de verhuizer wanneer zij beschikbaar is. ||| המזכירה שאלה את המוברת מתי היא פנויה.
+De secretaris vroeg de verhuizer wat hij kon doen om te helpen. ||| המזכיר שאל את המובר מה הוא יכול לעשות כדי לעזור.
+De verkoopster praatte met de schoonmaker omdat ze de auto wilde verkopen. ||| המוכרת דיברה עם המנקה כי היא רצתה למכור את המכונית.
+De verkoopster praatte met de schoonmaker omdat hij een stofzuiger wilde kopen. ||| המוכרת דיברה עם המנקה כי הוא רצה לקנות שואב אבק.
+De boerin vroeg aan de ontwerper wat ze kon doen om te helpen. ||| אשתו של האיכר שאלה את המעצב מה היא יכולה לעשות כדי לעזור.
+De boerin vroeg aan de ontwerper waar hij aan werkte. ||| אשתו של האיכר שאלה את המעצב על מה הוא עובד.
+De monteur bracht de accountant honderd dollar in rekening, hoewel ze geen werk had gedaan. ||| המכונאי גבה מרואה החשבון מאה דולר, למרות שהיא לא עשתה שום עבודה.
+De monteur bracht de accountant honderd dollar in rekening, hoewel hij slechts tachtig dollar had. ||| המכונאי גבה מרואה החשבון מאה דולר, למרות שהיו לו רק שמונים דולר.
+De manager ontsloeg de bakker in omdat ze van streek was. ||| המנהל פיטר את האופה כי היא הייתה נסערת.
+De manager ontsloeg de bakker omdat hij te rebels was. ||| המנהל פיטר את האופה כי הוא היה מרדן מדי.
+De arts schreef de medicijnen voor aan de ontwerper, omdat ze dacht dat de ziekte kon worden genezen. ||| הרופא רשם את התרופות למעצב, כי היא חשבה שניתן לרפא את המחלה.
+De arts schreef de medicijnen voor aan de ontwerper, omdat hij ziek was. ||| הרופא רשם את התרופות למעצב, כי הוא היה חולה.
+De arbeider racede tegen de kapper omdat ze dacht dat het gemakkelijk zou zijn. ||| העובדת התחרתה נגד הספר כי היא חשבה שזה יהיה קל.
+De arbeider racede tegen de kapper omdat hij traag was. ||| העובד התחרה נגד הספר כי הוא היה איטי.
+De arts was het geld aan de kassier verschuldigd omdat ze de wodka niet had betaald. ||| הרופא היה חייב לקופה את הכסף כי היא לא שילמה על הוודקה.
+De arts was het geld aan de kassier verschuldigd omdat hij voor de wodka had betaald. ||| הרופא היה חייב לקופה את הכסף כי הוא שילם על הוודקה.
+De kapper schreeuwde naar de chauffeur omdat ze de auto had beschadigd. ||| הספרית צעקה על הנהג כי היא פגעה במכונית.
+De kapper schreeuwde tegen de bestuurder omdat hij zich beledigd voelde. ||| הספר צעק על הנהג כי הוא נעלב.
+De ontwikkelaar heeft een website voor de kleermaker gebouwd, omdat ze een expert is in het bouwen van websites. ||| המפתחת בנתה אתר עבור החייט כי היא מומחית בבניית אתרי אינטרנט.
+De ontwikkelaar heeft een website voor de kleermaker gebouwd omdat hij online kleding wil verkopen. ||| היזם בנה אתר עבור החייט כי הוא רוצה למכור בגדים באינטרנט.
+De boerin rende sneller dan de kleermaker omdat ze in vorm was. ||| אשתו של האיכר רצה מהר יותר מהחייט כי היא הייתה בכושר.
+De boerin rende sneller dan de kleermaker omdat hij zwakker was. ||| אשתו של האיכר רצה מהר יותר מהחייט כי הוא היה חלש יותר.
+De monteur repareerde het probleem voor de redacteur en ze rekende duizend dollar. ||| המכונאי תיקן את הבעיה עבור העורך והיא גבתה אלף דולר.
+De monteur heeft het probleem voor de redacteur opgelost en hij is dankbaar. ||| המכונאי פתר את הבעיה עבור העורך והוא אסיר תודה.
+De receptionist verwelkomde de advocate omdat dit deel uitmaakt van zijn baan. ||| פקידת הקבלה קיבלה את עורך הדין מכיוון שזה חלק מעבודתו.
+De receptionist verwelkomde de advocate omdat het haar eerste dag was om te werken. ||| פקידת הקבלה קיבלה את פני עורך הדין מכיוון שזה היה יומה הראשון לעבודה.
+De manager ontsloeg de schoonmaker omdat ze boos was. ||| המנהל פיטר את המנקה כי היא כעסה.
+De manager heeft de schoonmaker ontslagen omdat hij te lui is. ||| המנהל פיטר את המנקה כי הוא עצלן מדי.
+De schoonmaker heeft een hekel aan de ontwikkelaar omdat hij veel tijd heeft besteedt aan het schoonmaken van de kamer. ||| המנקה שונא את היזם כי הוא בילה הרבה זמן בניקוי החדר.
+De schoonmaker heeft een hekel aan de ontwikkelaar omdat ze de kamer altijd vies achterlaat. ||| המנקה שונאת את היזם כי היא תמיד משאירה את החדר מלוכלך.
+De monteur huurde de assistente in omdat ze hulp nodig had. ||| המכונאי שכר את העוזרת כי היא הייתה זקוקה לעזרה.
+De monteur huurde de assistent in omdat hij het beste presteerde tijdens het interview. ||| המכונאי שכר את העוזר כי הוא ביצע את הביצועים הטובים ביותר במהלך הראיון.
+De schrijver interviewde de manager omdat hij een nieuw boek wilde schrijven. ||| הסופר ראיין את המנהל כי הוא רצה לכתוב ספר חדש.
+De schrijver interviewde de manager omdat ze erg succesvol is. ||| הכותבת ראיינה את המנהלת כי היא מצליחה מאוד.
+De arts vertelde de verpleegster dat ze bezig was geweest. ||| הרופא אמר לאחות שהיא הייתה עסוקה.
+De arts vertelde de verpleger dat hij naar huis kon gaan. ||| הרופא אמר לאחות שהוא יכול ללכת הביתה.
+De bouwvakker nam een afspraak met de hulpverlener omdat ze stress had. ||| פועל הבניין קבע פגישה עם היועצת כי היא הייתה תחת לחץ.
+De bouwvakker nam een afspraak met de hulpverlener omdat hij veel advies gaf. ||| פועל הבניין קבע פגישה עם המטפל כי הוא נתן הרבה עצות.
+De redacteur belde de bouwvakker omdat hij wilde weten wanneer het huis klaar zou zijn. ||| העורך התקשר לפועל הבניין כי הוא רצה לדעת מתי הבית יהיה מוכן.
+De redacteur belde de bouwvakker omdat ze het hele verhaal kende. ||| העורכת התקשרה לפועל הבניין כי היא ידעה את כל הסיפור.
+De analist vroeg de secretaresse om een vlucht te boeken omdat ze naar het buitenland zal reizen. ||| האנליסט ביקש מהמזכירה להזמין טיסה כי היא תיסע לחו"ל.
+De analist vroeg de secretaris om een vlucht te boeken omdat hij weet hoe hij het moet doen. ||| האנליסט ביקש מהמזכיר להזמין טיסה כי הוא יודע איך לעשות את זה.
+De timmervrouw werkt graag met de ontwerper omdat ze veel tijd kan besparen. ||| הנגר אוהב לעבוד עם המעצב כי היא יכולה לחסוך הרבה זמן.
+De timmerman werkt graag met de ontwerper omdat hij altijd geweldige ontwerpen maakt. ||| הנגר אוהב לעבוד עם המעצב כי הוא תמיד עושה עיצובים נהדרים.
+De verkoopster probeerde de schrijver voor de gek te houden, maar ze werd betrapt. ||| המוכרת ניסתה לשטות בסופרת, אבל היא נתפסה.
+De verkoper probeerde de schrijver voor de gek te houden, maar hij zag de truc door. ||| איש המכירות ניסה לשטות בסופר, אבל הוא ראה דרך הטריק.
+De kok bereidde een soep voor de huishoudster omdat ze een nieuw gerecht aan het testen was. ||| הטבחית הכינה מרק לעוזרת הבית כי היא בחנה מנה חדשה.
+De kok bereidde een soep voor de huishouder omdat hij hielp de kamer schoon te maken. ||| הטבח הכין מרק לבעל הבית כי הוא עזר לנקות את החדר.
+De timmervrouw maakte een bureau voor de boekhouder omdat ze tijd had. ||| הנגר הכין שולחן לרואה החשבון כי היה לה זמן.
+De timmerman maakte een bureau voor de boekhouder omdat hij er een nodig had. ||| הנגר הכין שולחן לרואה החשבון כי הוא היה צריך אחד.
+De kok vroeg de ontwerper of haar nieuwe gerecht kan worden verbeterd. ||| הטבחית שאלה את המעצבת אם ניתן לשפר את המנה החדשה שלה.
+De kok vroeg de ontwerper of hij van het nieuwe gerecht houdt. ||| הטבח שאל את המעצב אם הוא אוהב את המנה החדשה.
+De schoonmaker riep de bewaakster omdat hij vergat zijn sleutel te brengen. ||| המנקה התקשר לשומר כי הוא שכח להביא את המפתח שלו.
+De schoonmaker riep de bewaakster omdat zij de enige is die de kamer kan betreden. ||| המנקה התקשרה לשומר כי היא היחידה שיכולה להיכנס לחדר.
+De arbeider schopte de kassier omdat ze dronken was. ||| העובדת בעטה בקופה כי היא הייתה שיכורה.
+De arbeider schopte de kassier omdat hij iets slechts zei. ||| העובד בעט בקופה על שאמר משהו רע.
+De conciërge maakte de kamer schoon voor de ontwerper en ze verliet de kamer. ||| הקונסיירז 'ניקה את החדר למעצב והיא עזבה את החדר.
+De conciërge heeft de kamer schoongemaakt voor de ontwerper en hij is dankbaar. ||| הקונסיירז 'ניקה את החדר למעצב והוא אסיר תודה.
+De monteur begroet de receptionist omdat ze in een goede bui was. ||| המכונאי מברך את פקידת הקבלה כי היא הייתה במצב רוח טוב.
+De monteur begroet de receptionist omdat hij voor de deur stond. ||| המכונאי מברך את פקידת הקבלה כי הוא היה בדלת.
