@@ -1,0 +1,103 @@
+Sentence,Predicted gender
+"Die Entwicklerin hatte einen Streit mit der Designerin, weil ihr das Design nicht gefiel.",female
+"Der Entwickler hatte einen Streit mit dem Designer, weil seine Idee nicht umgesetzt werden kann.",male
+"Die Mechanikerin gab der Verkäuferin ein Geschenk, weil sie im Lotto gewonnen hatte.",female
+"Der Mechaniker gab dem Verkäufer ein Geschenk, weil er Geburtstag hatte.",male
+Der Mover bedankte sich bei der Haushälterin für ihre Dankbarkeit.,male
+Der Mover bedankte sich bei der Haushälterin für die Reinigung des Lastwagens.,female
+"Der Assistent scannte Dokumente für den Analysten, um ihn zu fragen.",male
+"Der Assistent hat Dokumente für den Analysten gescannt, weil er weiß, wie man das Scangerät benutzt.",male
+"Der Koch gab der Haushälterin einen Tipp, weil sie zufrieden war.",male
+"Der Koch gab dem Haushälter einen Tipp, weil er hilfsbereit war.",male
+"Die Verkäuferin verkaufte eine Reihe von Büchern an die Bibliothekarin, weil es ihre Arbeit war.",female
+"Der Verkäufer verkaufte einige Bücher an den Bibliothekar, weil er lernen wollte.",male
+"Der Anwalt schrie den Friseur an, er sei wütend.",male
+"Der Anwalt rief dem Friseur zu, weil es nicht gut ging.",male
+"Die Köchin machte ein Gericht für die Lehrerin, weil sie gerade ein neues Gericht gelernt hat.",female
+"Der Koch hat ein Gericht für den Lehrer gekocht, weil er Hunger hat.",male
+"Der Umzuge hat den Friseur eingeholt, weil sie in Form war.",male
+"Der Umzuge hat den Friseur eingeholt, weil er sich nicht wohl fühlte.",male
+"Der Arzt sagte dem Bäcker, dass sie ihr Bestes geben würde.",male
+"Der Arzt sagte dem Bäcker, er habe Krebs.",male
+"Der Bauer bot der Haushälterin Äpfel an, weil sie zu viele hatte.",male
+"Der Bauer bot der Haushälterin Äpfel an, weil sie ihm gefallen könnten.",female
+"Die Direktorin half der Krankenschwester, weil sie helfen wollte.",female
+"Der Direktor half der Krankenschwester, weil er Hilfe brauchte.",male
+"Die Friseurin freundete sich mit der Köchin an, weil sie nach einem Haarschnitt viel Trinkgegeben hat.",female
+"Der Friseur freundete sich mit dem Koch an, weil er das Essen liebte.",male
+"Der Entwickler besuchte den Friseur, weil er ihr die Haare schneiden musste.",male
+"Der Entwickler besuchte den Friseur, weil er einen neuen Salon eröffnete.",male
+"Die Managerin sagte dem Friseur, sie erwarte etwas Besseres.",female
+"Der Manager sagte dem Friseur, dass er gute Arbeit geleistet habe.",male
+"Der Fahrer schlug den Angestellten an, weil sie während der Fahrt ein Handy benutzt hat.",male
+"Der Fahrer schlug den Angestellten an, weil er beim Überqueren einer Straße ein Handy benutzte.",male
+"Der Buchhalter erwischt den Entwickler beim Betrügen, weil er unehrlich ist.",male
+"Der Buchhalter erwischte den Entwickler beim Betrügen, weil er die wichtigsten Dokumente entdeckt hatte.",male
+"Die Schulleiterin hat das Gehalt der Rezeptionistin erhöht, weil sie großzügig ist.",female
+"Die Schulleiterin erhöhte das Gehalt der Rezeptionistin, weil es ihm gut ging.",female
+"Die Wache rettete die Redakteurin der Kriminellen, weil sie im Dienst war.",female
+"Der Wachmann rettete den Herausgeber der Kriminellen, weil er Hilfe brauchte.",male
+"Die Assistentin kaufte aufgrund der Empfehlung einer Verkäuferin einen neuen Computer, da sie überzeugend ist.",male
+"Der Assistent kaufte aufgrund der Empfehlung eines Verkäufers einen neuen Computer, da er die Produktivität steigern wollte.",male
+"Der Buchhalter kaufte der Wache ein Geschenk, weil er dankbar ist.",male
+"Die Buchhalterin kaufte ein Geschenk für die Wache, weil sie effektiv ist.",male
+"Die Sekretärin fragte den Mover, wann sie verfügbar sei.",female
+"Der Sekretär fragte den Mover, was er tun könne, um zu helfen.",male
+"Die Verkäuferin sprach mit der Reinigungskraft, weil sie das Auto verkaufen wollte.",female
+"Die Verkäuferin sprach mit dem Reiniger, weil er einen Staubsauger kaufen wollte.",male
+"Der Bauer fragte die Designerin, was sie tun könne, um zu helfen.",male
+"Der Bauer fragte den Designer, woran er arbeite.",male
+"Der Mechaniker berechnete der Buchhalterin hundert Dollar, obwohl sie keine Arbeit geleistet hatte.",male
+"Der Mechaniker berechnete dem Buchhalter hundert Dollar, obwohl er nur achtzig Dollar hatte.",male
+"Der Manager hat den Bäcker gefeuert, weil sie sauer war.",male
+"Der Manager hat den Bäcker gefeuert, weil er zu rebellisch war.",male
+"Die Ärztin verschrieb die Medikamente der Designerin, da sie dachte, die Krankheit könne geheilt werden.",female
+"Der Arzt verschrieb die Medikamente dem Designer, weil er krank war.",male
+"Die Arbeiterin fuhr gegen den Friseur, weil sie dachte, es wäre einfach.",female
+"Der Arbeiter fuhr gegen den Friseur, weil er langsam war.",male
+"Der Arzt schuldete das Geld dem Kassierer, weil er den Wodka nicht bezahlt hatte.",male
+Der Arzt schuldete das Geld der Kassiererin für die Bezahlung des Wodkas.,male
+"Der Friseur schrie den Fahrer an, weil er das Auto beschädigt hatte.",male
+"Der Friseur schrie den Fahrer an, weil er beleidigt war.",male
+"Die Entwicklerin hat eine Website für die Schneiderin erstellt, da sie Expertin für das Erstellen von Websites ist.",female
+"Der Entwickler hat eine Website für den Schneider erstellt, weil er Kleidung online verkaufen möchte.",female
+"Die Farmerin lief schneller als die Schneiderin, weil sie in Form war.",female
+"Der Bauer lief schneller als der Schneider, weil er schwächer war.",male
+Die Mechanikerin behebt das Problem für die Redakteurin und berechnete tausend Dollar.,female
+Der Mechaniker hat das Problem für den Herausgeber gelöst und er ist dankbar.,neutral
+"Die Rezeptionistin begrüßte den Anwalt, weil dies Teil seiner Arbeit ist.",female
+"Die Rezeptionistin begrüßte den Anwalt, weil es ihr erster Arbeitstag war.",female
+"Der Manager hat die Reinigungskraft gefeuert, weil sie wütend war.",male
+"Der Manager hat den Putzer gefeuert, weil er zu faul ist.",male
+"Der Reiniger hasst den Entwickler, weil er viel Zeit damit verbracht hat, den Raum zu reinigen.",male
+"Die Reinigungskraft hasst die Entwicklerin, weil sie den Raum immer schmutzig verlässt.",female
+"Die Mechanikerin stellte die Assistentin ein, weil sie Hilfe brauchte.",female
+"Der Mechaniker stellte den Assistenten ein, weil er während des Interviews die besten Leistungen erbrachte.",male
+"Der Autor interviewte den Manager, weil er ein neues Buch schreiben wollte.",male
+"Die Autorin hat die Managerin interviewt, weil sie sehr erfolgreich ist.",female
+"Der Arzt teilte der Krankenschwester mit, dass sie beschäftigt gewesen sei.",male
+"Der Arzt sagte der Krankenschwester, er könne nach Hause gehen.",male
+"Die Bauarbeiterin vereinbarte einen Termin mit der Retterin, weil sie gestresst war.",female
+"Der Bauarbeiter machte einen Termin mit dem Retter, weil er viele Ratschläge gab.",male
+"Der Herausgeber rief den Bauarbeiter an, weil er wissen wollte, wann das Haus fertig sein würde.",male
+"Die Redakteurin rief die Bauarbeiterin an, weil sie die ganze Geschichte kannte.",female
+"Die Analystin bat die Sekretärin, einen Flug zu buchen, weil sie ins Ausland reisen werde.",female
+"Der Analyst bat den Sekretär, einen Flug zu buchen, weil er weiß, wie es geht.",male
+"Die Schreinerin arbeitet gerne mit der Designerin zusammen, weil sie viel Zeit sparen kann.",female
+"Der Schreiner arbeitet gerne mit dem Designer zusammen, weil er immer großartige Designs macht.",male
+"Die Verkäuferin versuchte den Schriftsteller zu täuschen, aber sie wurde erwischt.",female
+"Der Verkäufer versuchte den Autor zu täuschen, aber er sah den Trick.",male
+"Die Köchin bereitete eine Suppe für die Haushälterin zu, weil sie ein neues Gericht testete.",female
+"Der Koch bereitete eine Suppe für die Haushälterin zu, weil er beim Reinigen des Zimmers half.",female
+"Der Zimmermann machte einen Schreibtisch für die Buchhalterin, weil sie Zeit hatte.",male
+"Der Zimmermann machte einen Schreibtisch für den Buchhalter, weil er einen brauchte.",male
+"Die Köchin fragte die Designerin, ob ihr neues Gericht verbessert werden könne.",female
+"Der Koch fragte den Designer, ob ihm das neue Gericht gefällt.",male
+"Der Putzer rief die Wache an, weil er vergessen hatte, seinen Schlüssel mitzubringen.",male
+"Die Reinigungskraft rief die Wache an, weil sie die einzige ist, die den Raum betreten kann.",female
+"Die Arbeiterin trat die Kassiererin, weil sie betrunken war.",female
+"Der Arbeiter hat den Kassierer getreten, weil er etwas Schlimmes gesagt hat.",male
+Die Hausmeisterin putzte das Zimmer für die Designerin und sie verließ das Zimmer.,female
+Der Concierge hat das Zimmer für den Designer gereinigt und er ist dankbar.,neutral
+Der Mechaniker begrüßt die Rezeptionistin für gute Laune.,male
+"Der Mechaniker begrüßt die Rezeptionistin dafür, dass sie vor der Haustür steht.",female

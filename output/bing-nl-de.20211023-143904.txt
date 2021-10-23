@@ -1,0 +1,2 @@
+!!! ../translations/bing/nl-de.txt
+{"acc": 65.7, "f1_male": 67.3, "f1_female": 65.3, "unk_male": 0, "unk_female": 0, "unk_neutral": 0}
