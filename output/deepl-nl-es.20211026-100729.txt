@@ -1,0 +1,12 @@
+!!! ../translations/deepl/nl-es.txt
+Not translating since translation file exists: ../translations/deepl/nl-es.txt
+{"acc": 78.4, "f1_male": 81.4, "f1_female": 78.2, "unk_male": 3, "unk_female": 1, "unk_neutral": 0}
+
+ITERATION 5 (FINAL)
+  log_e likelihood: -2766.19
+  log_2 likelihood: -3990.76
+     cross entropy: 3.18243
+        perplexity: 9.07833
+      posterior p0: 0
+ posterior al-feat: 0
+       size counts: 49

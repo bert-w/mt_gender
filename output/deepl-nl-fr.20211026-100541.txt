@@ -1,0 +1,30 @@
+!!! ../translations/deepl/nl-fr.txt
+Not translating since translation file exists: ../translations/deepl/nl-fr.txt
+{"acc": 56.9, "f1_male": 64.3, "f1_female": 55.3, "unk_male": 10, "unk_female": 3, "unk_neutral": 0}
+
+Notes:
+ITERATION 4
+  log_e likelihood: -3341.98
+  log_2 likelihood: -4821.46
+     cross entropy: 3.47868
+        perplexity: 11.1478
+      posterior p0: 0.0413746
+ posterior al-feat: -0.0782102
+       size counts: 46
+  1  model al-feat: -0.0853584 (tension=9.2843)
+  2  model al-feat: -0.0841961 (tension=9.42727)
+  3  model al-feat: -0.0832444 (tension=9.54698)
+  4  model al-feat: -0.0824589 (tension=9.64767)
+  5  model al-feat: -0.0818063 (tension=9.73264)
+  6  model al-feat: -0.0812612 (tension=9.80456)
+  7  model al-feat: -0.0808038 (tension=9.86558)
+  8  model al-feat: -0.0804186 (tension=9.91745)
+     final tension: 9.96162
+ITERATION 5 (FINAL)
+  log_e likelihood: -3190.74
+  log_2 likelihood: -4603.26
+     cross entropy: 3.32126
+        perplexity: 9.99534
+      posterior p0: 0
+ posterior al-feat: 0
+       size counts: 46
