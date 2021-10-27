@@ -30,6 +30,7 @@ LANGAUGE_PREDICTOR = {
     "es": lambda: SpacyPredictor("es"),
     "fr": lambda: SpacyPredictor("fr"),
     "it": lambda: SpacyPredictor("it"),
+    "da": lambda: SpacyPredictor("da"),
     "ru": lambda: PymorphPredictor("ru"),
     "uk": lambda: PymorphPredictor("uk"),
     "he": lambda: HebrewPredictor(),
@@ -79,7 +80,7 @@ def get_translated_professions(alignment_fn: str, ds: List[List[str]], bitext: L
     bitext = [(ind, (src_sent.split(), tgt_sent.split()))
               for ind, (src_sent, tgt_sent) in bitext]
 
-    src_indices = list(map(get_src_indices, ds)) # this extends the subject with it's article, if present.  
+    src_indices = list(map(get_src_indices, ds)) # this extends the subject with it's article, if present.
 
     full_alignments = []
     for line in open(align_fn):
