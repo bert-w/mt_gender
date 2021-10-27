@@ -30,7 +30,6 @@ LANGAUGE_PREDICTOR = {
     "es": lambda: SpacyPredictor("es"),
     "fr": lambda: SpacyPredictor("fr"),
     "it": lambda: SpacyPredictor("it"),
-    "da": lambda: SpacyPredictor("da"),
     "ru": lambda: PymorphPredictor("ru"),
     "uk": lambda: PymorphPredictor("uk"),
     "he": lambda: HebrewPredictor(),
